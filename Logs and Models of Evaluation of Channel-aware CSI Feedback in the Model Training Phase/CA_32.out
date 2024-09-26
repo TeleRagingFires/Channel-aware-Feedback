@@ -1,0 +1,2169 @@
+1.13.1+cu117
+trainset len 112000 valset len 48000
+New_trainset len 72000 valset len 48000
+825,049 training parameters.
+
+[INFO]: Epoch 1 of 100
+Training
+Check SFA Loss weight is working
+0
+[1,   100] loss: 4.629e-02
+[1,   200] loss: 4.454e-02
+[1,   300] loss: 4.038e-02
+[1,   400] loss: 3.268e-02
+[1,   500] loss: 2.252e-02
+[1,   600] loss: 1.542e-02
+[1,   700] loss: 1.301e-02
+Learning Rate: 5.714285714285715e-06
+Validation
+[1,   100] loss: 1.254e-02
+[1,   200] loss: 1.254e-02
+[1,   300] loss: 1.253e-02
+[1,   400] loss: 1.253e-02
+Training loss: 0.030, train NMSE: 1.438e+01, training acc: 0.444
+Validation loss: 0.013, valid_NMSE: 1.432e+01, validation acc: 0.444
+
+Best validation loss: 14.32260513305664
+
+Saving best model for epoch: 1
+
+--------------------------------------------------
+[INFO]: Epoch 2 of 100
+Training
+Check SFA Loss weight is working
+0
+[2,   100] loss: 1.239e-02
+[2,   200] loss: 1.220e-02
+[2,   300] loss: 1.205e-02
+[2,   400] loss: 1.187e-02
+[2,   500] loss: 1.170e-02
+[2,   600] loss: 1.150e-02
+[2,   700] loss: 1.131e-02
+Learning Rate: 1.142857142857143e-05
+Validation
+[2,   100] loss: 1.119e-02
+[2,   200] loss: 1.119e-02
+[2,   300] loss: 1.119e-02
+[2,   400] loss: 1.118e-02
+Training loss: 0.012, train NMSE: 1.424e+01, training acc: 0.444
+Validation loss: 0.011, valid_NMSE: 1.451e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 3 of 100
+Training
+Check SFA Loss weight is working
+0
+[3,   100] loss: 1.108e-02
+[3,   200] loss: 1.085e-02
+[3,   300] loss: 1.063e-02
+[3,   400] loss: 1.043e-02
+[3,   500] loss: 1.021e-02
+[3,   600] loss: 1.001e-02
+[3,   700] loss: 9.805e-03
+Learning Rate: 1.7142857142857142e-05
+Validation
+[3,   100] loss: 9.685e-03
+[3,   200] loss: 9.685e-03
+[3,   300] loss: 9.687e-03
+[3,   400] loss: 9.681e-03
+Training loss: 0.010, train NMSE: 1.452e+01, training acc: 0.444
+Validation loss: 0.010, valid_NMSE: 1.472e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 4 of 100
+Training
+Check SFA Loss weight is working
+0
+[4,   100] loss: 9.585e-03
+[4,   200] loss: 9.358e-03
+[4,   300] loss: 8.366e-03
+[4,   400] loss: 8.150e-03
+[4,   500] loss: 8.039e-03
+[4,   600] loss: 7.934e-03
+[4,   700] loss: 7.513e-03
+Learning Rate: 2.285714285714286e-05
+Validation
+[4,   100] loss: 5.842e-03
+[4,   200] loss: 5.839e-03
+[4,   300] loss: 5.839e-03
+[4,   400] loss: 5.838e-03
+Training loss: 0.008, train NMSE: 1.216e+01, training acc: 0.444
+Validation loss: 0.006, valid_NMSE: 1.264e+01, validation acc: 0.444
+
+Best validation loss: 12.640632629394531
+
+Saving best model for epoch: 4
+
+--------------------------------------------------
+[INFO]: Epoch 5 of 100
+Training
+Check SFA Loss weight is working
+0
+[5,   100] loss: 5.767e-03
+[5,   200] loss: 5.658e-03
+[5,   300] loss: 5.570e-03
+[5,   400] loss: 5.491e-03
+[5,   500] loss: 5.417e-03
+[5,   600] loss: 5.352e-03
+[5,   700] loss: 5.294e-03
+Learning Rate: 2.8571428571428574e-05
+Validation
+[5,   100] loss: 5.252e-03
+[5,   200] loss: 5.254e-03
+[5,   300] loss: 5.249e-03
+[5,   400] loss: 5.257e-03
+Training loss: 0.006, train NMSE: 1.202e+01, training acc: 0.444
+Validation loss: 0.005, valid_NMSE: 1.158e+01, validation acc: 0.444
+
+Best validation loss: 11.578903198242188
+
+Saving best model for epoch: 5
+
+--------------------------------------------------
+[INFO]: Epoch 6 of 100
+Training
+Check SFA Loss weight is working
+0
+[6,   100] loss: 5.224e-03
+[6,   200] loss: 5.172e-03
+[6,   300] loss: 5.125e-03
+[6,   400] loss: 5.077e-03
+[6,   500] loss: 5.042e-03
+[6,   600] loss: 5.006e-03
+[6,   700] loss: 4.968e-03
+Learning Rate: 3.4285714285714284e-05
+Validation
+[6,   100] loss: 4.942e-03
+[6,   200] loss: 4.945e-03
+[6,   300] loss: 4.947e-03
+[6,   400] loss: 4.945e-03
+Training loss: 0.005, train NMSE: 1.186e+01, training acc: 0.444
+Validation loss: 0.005, valid_NMSE: 1.177e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 7 of 100
+Training
+Check SFA Loss weight is working
+0
+[7,   100] loss: 4.926e-03
+[7,   200] loss: 4.900e-03
+[7,   300] loss: 4.873e-03
+[7,   400] loss: 4.846e-03
+[7,   500] loss: 4.817e-03
+[7,   600] loss: 4.801e-03
+[7,   700] loss: 4.773e-03
+Learning Rate: 4e-05
+Validation
+[7,   100] loss: 4.765e-03
+[7,   200] loss: 4.769e-03
+[7,   300] loss: 4.758e-03
+[7,   400] loss: 4.762e-03
+Training loss: 0.005, train NMSE: 1.178e+01, training acc: 0.444
+Validation loss: 0.005, valid_NMSE: 1.155e+01, validation acc: 0.444
+
+Best validation loss: 11.554988861083984
+
+Saving best model for epoch: 7
+
+--------------------------------------------------
+[INFO]: Epoch 8 of 100
+Training
+Check SFA Loss weight is working
+0
+[8,   100] loss: 4.755e-03
+[8,   200] loss: 4.742e-03
+[8,   300] loss: 4.728e-03
+[8,   400] loss: 4.698e-03
+[8,   500] loss: 4.695e-03
+[8,   600] loss: 4.688e-03
+[8,   700] loss: 4.673e-03
+Learning Rate: 4.571428571428572e-05
+Validation
+[8,   100] loss: 4.667e-03
+[8,   200] loss: 4.672e-03
+[8,   300] loss: 4.672e-03
+[8,   400] loss: 4.667e-03
+Training loss: 0.005, train NMSE: 1.156e+01, training acc: 0.444
+Validation loss: 0.005, valid_NMSE: 1.191e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 9 of 100
+Training
+Check SFA Loss weight is working
+0
+[9,   100] loss: 4.659e-03
+[9,   200] loss: 4.662e-03
+[9,   300] loss: 4.652e-03
+[9,   400] loss: 4.641e-03
+[9,   500] loss: 4.634e-03
+[9,   600] loss: 4.635e-03
+[9,   700] loss: 4.630e-03
+Learning Rate: 5.142857142857143e-05
+Validation
+[9,   100] loss: 4.627e-03
+[9,   200] loss: 4.631e-03
+[9,   300] loss: 4.628e-03
+[9,   400] loss: 4.623e-03
+Training loss: 0.005, train NMSE: 1.190e+01, training acc: 0.444
+Validation loss: 0.005, valid_NMSE: 1.204e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 10 of 100
+Training
+Check SFA Loss weight is working
+0
+[10,   100] loss: 4.622e-03
+[10,   200] loss: 4.619e-03
+[10,   300] loss: 4.610e-03
+[10,   400] loss: 4.593e-03
+[10,   500] loss: 4.565e-03
+[10,   600] loss: 4.540e-03
+[10,   700] loss: 4.526e-03
+Learning Rate: 5.714285714285715e-05
+Validation
+[10,   100] loss: 4.504e-03
+[10,   200] loss: 4.511e-03
+[10,   300] loss: 4.506e-03
+[10,   400] loss: 4.500e-03
+Training loss: 0.005, train NMSE: 1.143e+01, training acc: 0.444
+Validation loss: 0.005, valid_NMSE: 1.144e+01, validation acc: 0.444
+
+Best validation loss: 11.441553115844727
+
+Saving best model for epoch: 10
+
+--------------------------------------------------
+[INFO]: Epoch 11 of 100
+Training
+Check SFA Loss weight is working
+0
+[11,   100] loss: 4.493e-03
+[11,   200] loss: 4.487e-03
+[11,   300] loss: 4.483e-03
+[11,   400] loss: 4.476e-03
+[11,   500] loss: 4.467e-03
+[11,   600] loss: 4.459e-03
+[11,   700] loss: 4.452e-03
+Learning Rate: 6.285714285714286e-05
+Validation
+[11,   100] loss: 4.443e-03
+[11,   200] loss: 4.448e-03
+[11,   300] loss: 4.451e-03
+[11,   400] loss: 4.442e-03
+Training loss: 0.004, train NMSE: 1.142e+01, training acc: 0.444
+Validation loss: 0.004, valid_NMSE: 1.158e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 12 of 100
+Training
+Check SFA Loss weight is working
+0
+[12,   100] loss: 4.446e-03
+[12,   200] loss: 4.435e-03
+[12,   300] loss: 4.429e-03
+[12,   400] loss: 4.421e-03
+[12,   500] loss: 4.414e-03
+[12,   600] loss: 4.404e-03
+[12,   700] loss: 4.402e-03
+Learning Rate: 6.857142857142857e-05
+Validation
+[12,   100] loss: 4.402e-03
+[12,   200] loss: 4.398e-03
+[12,   300] loss: 4.401e-03
+[12,   400] loss: 4.398e-03
+Training loss: 0.004, train NMSE: 1.159e+01, training acc: 0.444
+Validation loss: 0.004, valid_NMSE: 1.139e+01, validation acc: 0.444
+
+Best validation loss: 11.386283874511719
+
+Saving best model for epoch: 12
+
+--------------------------------------------------
+[INFO]: Epoch 13 of 100
+Training
+Check SFA Loss weight is working
+0
+[13,   100] loss: 4.398e-03
+[13,   200] loss: 4.388e-03
+[13,   300] loss: 4.385e-03
+[13,   400] loss: 4.385e-03
+[13,   500] loss: 4.381e-03
+[13,   600] loss: 4.378e-03
+[13,   700] loss: 4.368e-03
+Learning Rate: 7.428571428571429e-05
+Validation
+[13,   100] loss: 4.372e-03
+[13,   200] loss: 4.366e-03
+[13,   300] loss: 4.369e-03
+[13,   400] loss: 4.371e-03
+Training loss: 0.004, train NMSE: 1.124e+01, training acc: 0.444
+Validation loss: 0.004, valid_NMSE: 1.157e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 14 of 100
+Training
+Check SFA Loss weight is working
+0
+[14,   100] loss: 4.364e-03
+[14,   200] loss: 4.360e-03
+[14,   300] loss: 4.360e-03
+[14,   400] loss: 4.350e-03
+[14,   500] loss: 4.342e-03
+[14,   600] loss: 4.336e-03
+[14,   700] loss: 4.332e-03
+Learning Rate: 8e-05
+Validation
+[14,   100] loss: 4.328e-03
+[14,   200] loss: 4.325e-03
+[14,   300] loss: 4.324e-03
+[14,   400] loss: 4.326e-03
+Training loss: 0.004, train NMSE: 1.131e+01, training acc: 0.444
+Validation loss: 0.004, valid_NMSE: 1.131e+01, validation acc: 0.444
+
+Best validation loss: 11.311088562011719
+
+Saving best model for epoch: 14
+
+--------------------------------------------------
+[INFO]: Epoch 15 of 100
+Training
+Check SFA Loss weight is working
+0
+[15,   100] loss: 4.326e-03
+[15,   200] loss: 4.315e-03
+[15,   300] loss: 4.300e-03
+[15,   400] loss: 4.294e-03
+[15,   500] loss: 4.281e-03
+[15,   600] loss: 4.265e-03
+[15,   700] loss: 4.247e-03
+Learning Rate: 8.571428571428573e-05
+Validation
+[15,   100] loss: 4.236e-03
+[15,   200] loss: 4.235e-03
+[15,   300] loss: 4.236e-03
+[15,   400] loss: 4.232e-03
+Training loss: 0.004, train NMSE: 1.073e+01, training acc: 0.444
+Validation loss: 0.004, valid_NMSE: 1.131e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 16 of 100
+Training
+Check SFA Loss weight is working
+0
+[16,   100] loss: 4.219e-03
+[16,   200] loss: 4.199e-03
+[16,   300] loss: 4.169e-03
+[16,   400] loss: 4.140e-03
+[16,   500] loss: 4.107e-03
+[16,   600] loss: 4.064e-03
+[16,   700] loss: 4.016e-03
+Learning Rate: 9.142857142857145e-05
+Validation
+[16,   100] loss: 3.974e-03
+[16,   200] loss: 3.979e-03
+[16,   300] loss: 3.976e-03
+[16,   400] loss: 3.976e-03
+Training loss: 0.004, train NMSE: 1.127e+01, training acc: 0.444
+Validation loss: 0.004, valid_NMSE: 1.124e+01, validation acc: 0.444
+
+Best validation loss: 11.241955757141113
+
+Saving best model for epoch: 16
+
+--------------------------------------------------
+[INFO]: Epoch 17 of 100
+Training
+Check SFA Loss weight is working
+0
+[17,   100] loss: 3.949e-03
+[17,   200] loss: 3.887e-03
+[17,   300] loss: 3.806e-03
+[17,   400] loss: 3.729e-03
+[17,   500] loss: 3.631e-03
+[17,   600] loss: 3.520e-03
+[17,   700] loss: 3.395e-03
+Learning Rate: 9.714285714285714e-05
+Validation
+[17,   100] loss: 3.302e-03
+[17,   200] loss: 3.300e-03
+[17,   300] loss: 3.302e-03
+[17,   400] loss: 3.303e-03
+Training loss: 0.004, train NMSE: 1.011e+01, training acc: 0.444
+Validation loss: 0.003, valid_NMSE: 1.011e+01, validation acc: 0.444
+
+Best validation loss: 10.114006996154785
+
+Saving best model for epoch: 17
+
+--------------------------------------------------
+[INFO]: Epoch 18 of 100
+Training
+Check SFA Loss weight is working
+0
+[18,   100] loss: 3.230e-03
+[18,   200] loss: 3.076e-03
+[18,   300] loss: 2.915e-03
+[18,   400] loss: 2.743e-03
+[18,   500] loss: 2.560e-03
+[18,   600] loss: 2.234e-03
+[18,   700] loss: 1.583e-03
+Learning Rate: 0.00010285714285714286
+Validation
+[18,   100] loss: 1.404e-03
+[18,   200] loss: 1.404e-03
+[18,   300] loss: 1.405e-03
+[18,   400] loss: 1.404e-03
+Training loss: 0.003, train NMSE: 5.714e+00, training acc: 0.444
+Validation loss: 0.001, valid_NMSE: 5.694e+00, validation acc: 0.444
+
+Best validation loss: 5.6937665939331055
+
+Saving best model for epoch: 18
+
+--------------------------------------------------
+[INFO]: Epoch 19 of 100
+Training
+Check SFA Loss weight is working
+0
+[19,   100] loss: 1.299e-03
+[19,   200] loss: 1.099e-03
+[19,   300] loss: 9.367e-04
+[19,   400] loss: 8.086e-04
+[19,   500] loss: 7.025e-04
+[19,   600] loss: 6.210e-04
+[19,   700] loss: 5.626e-04
+Learning Rate: 0.00010857142857142858
+Validation
+[19,   100] loss: 5.235e-04
+[19,   200] loss: 5.209e-04
+[19,   300] loss: 5.226e-04
+[19,   400] loss: 5.259e-04
+Training loss: 0.001, train NMSE: -1.915e+00, training acc: 0.444
+Validation loss: 0.001, valid_NMSE: -2.073e+00, validation acc: 0.444
+
+Best validation loss: -2.073410987854004
+
+Saving best model for epoch: 19
+
+--------------------------------------------------
+[INFO]: Epoch 20 of 100
+Training
+Check SFA Loss weight is working
+0
+[20,   100] loss: 5.025e-04
+[20,   200] loss: 4.685e-04
+[20,   300] loss: 4.489e-04
+[20,   400] loss: 4.302e-04
+[20,   500] loss: 4.210e-04
+[20,   600] loss: 4.095e-04
+[20,   700] loss: 4.039e-04
+Learning Rate: 0.0001142857142857143
+Validation
+[20,   100] loss: 4.029e-04
+[20,   200] loss: 4.013e-04
+[20,   300] loss: 4.028e-04
+[20,   400] loss: 4.029e-04
+Training loss: 0.000, train NMSE: -6.175e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -6.401e+00, validation acc: 0.444
+
+Best validation loss: -6.401052951812744
+
+Saving best model for epoch: 20
+
+--------------------------------------------------
+[INFO]: Epoch 21 of 100
+Training
+Check SFA Loss weight is working
+0
+[21,   100] loss: 4.021e-04
+[21,   200] loss: 4.012e-04
+[21,   300] loss: 3.968e-04
+[21,   400] loss: 3.961e-04
+[21,   500] loss: 3.921e-04
+[21,   600] loss: 3.974e-04
+[21,   700] loss: 3.923e-04
+Learning Rate: 0.00012
+Validation
+[21,   100] loss: 3.935e-04
+[21,   200] loss: 3.909e-04
+[21,   300] loss: 3.906e-04
+[21,   400] loss: 3.941e-04
+Training loss: 0.000, train NMSE: -6.788e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -7.280e+00, validation acc: 0.444
+
+Best validation loss: -7.280275821685791
+
+Saving best model for epoch: 21
+
+--------------------------------------------------
+[INFO]: Epoch 22 of 100
+Training
+Check SFA Loss weight is working
+0
+[22,   100] loss: 3.912e-04
+[22,   200] loss: 3.898e-04
+[22,   300] loss: 3.912e-04
+[22,   400] loss: 3.897e-04
+[22,   500] loss: 3.892e-04
+[22,   600] loss: 3.858e-04
+[22,   700] loss: 3.850e-04
+Learning Rate: 0.00012571428571428572
+Validation
+[22,   100] loss: 3.861e-04
+[22,   200] loss: 3.825e-04
+[22,   300] loss: 3.860e-04
+[22,   400] loss: 3.836e-04
+Training loss: 0.000, train NMSE: -7.063e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -7.075e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 23 of 100
+Training
+Check SFA Loss weight is working
+0
+[23,   100] loss: 3.835e-04
+[23,   200] loss: 3.841e-04
+[23,   300] loss: 3.844e-04
+[23,   400] loss: 3.824e-04
+[23,   500] loss: 3.799e-04
+[23,   600] loss: 3.769e-04
+[23,   700] loss: 3.796e-04
+Learning Rate: 0.00013142857142857143
+Validation
+[23,   100] loss: 3.782e-04
+[23,   200] loss: 3.758e-04
+[23,   300] loss: 3.791e-04
+[23,   400] loss: 3.785e-04
+Training loss: 0.000, train NMSE: -7.914e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -7.790e+00, validation acc: 0.444
+
+Best validation loss: -7.790177345275879
+
+Saving best model for epoch: 23
+
+--------------------------------------------------
+[INFO]: Epoch 24 of 100
+Training
+Check SFA Loss weight is working
+0
+[24,   100] loss: 3.784e-04
+[24,   200] loss: 3.770e-04
+[24,   300] loss: 3.787e-04
+[24,   400] loss: 3.770e-04
+[24,   500] loss: 3.745e-04
+[24,   600] loss: 3.739e-04
+[24,   700] loss: 3.738e-04
+Learning Rate: 0.00013714285714285713
+Validation
+[24,   100] loss: 3.754e-04
+[24,   200] loss: 3.724e-04
+[24,   300] loss: 3.733e-04
+[24,   400] loss: 3.737e-04
+Training loss: 0.000, train NMSE: -8.450e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -7.890e+00, validation acc: 0.444
+
+Best validation loss: -7.8903608322143555
+
+Saving best model for epoch: 24
+
+--------------------------------------------------
+[INFO]: Epoch 25 of 100
+Training
+Check SFA Loss weight is working
+0
+[25,   100] loss: 3.716e-04
+[25,   200] loss: 3.737e-04
+[25,   300] loss: 3.712e-04
+[25,   400] loss: 3.709e-04
+[25,   500] loss: 3.762e-04
+[25,   600] loss: 3.712e-04
+[25,   700] loss: 3.694e-04
+Learning Rate: 0.00014285714285714287
+Validation
+[25,   100] loss: 3.708e-04
+[25,   200] loss: 3.701e-04
+[25,   300] loss: 3.694e-04
+[25,   400] loss: 3.693e-04
+Training loss: 0.000, train NMSE: -7.624e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -8.685e+00, validation acc: 0.444
+
+Best validation loss: -8.68458080291748
+
+Saving best model for epoch: 25
+
+--------------------------------------------------
+[INFO]: Epoch 26 of 100
+Training
+Check SFA Loss weight is working
+0
+[26,   100] loss: 3.721e-04
+[26,   200] loss: 3.655e-04
+[26,   300] loss: 3.687e-04
+[26,   400] loss: 3.679e-04
+[26,   500] loss: 3.666e-04
+[26,   600] loss: 3.686e-04
+[26,   700] loss: 3.680e-04
+Learning Rate: 0.00014857142857142857
+Validation
+[26,   100] loss: 3.657e-04
+[26,   200] loss: 3.671e-04
+[26,   300] loss: 3.637e-04
+[26,   400] loss: 3.643e-04
+Training loss: 0.000, train NMSE: -7.792e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -7.983e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 27 of 100
+Training
+Check SFA Loss weight is working
+0
+[27,   100] loss: 3.649e-04
+[27,   200] loss: 3.672e-04
+[27,   300] loss: 3.632e-04
+[27,   400] loss: 3.633e-04
+[27,   500] loss: 3.631e-04
+[27,   600] loss: 3.626e-04
+[27,   700] loss: 3.633e-04
+Learning Rate: 0.0001542857142857143
+Validation
+[27,   100] loss: 3.595e-04
+[27,   200] loss: 3.635e-04
+[27,   300] loss: 3.607e-04
+[27,   400] loss: 3.622e-04
+Training loss: 0.000, train NMSE: -7.829e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -8.391e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 28 of 100
+Training
+Check SFA Loss weight is working
+0
+[28,   100] loss: 3.624e-04
+[28,   200] loss: 3.614e-04
+[28,   300] loss: 3.579e-04
+[28,   400] loss: 3.603e-04
+[28,   500] loss: 3.553e-04
+[28,   600] loss: 3.560e-04
+[28,   700] loss: 3.583e-04
+Learning Rate: 0.00016
+Validation
+[28,   100] loss: 3.543e-04
+[28,   200] loss: 3.591e-04
+[28,   300] loss: 3.577e-04
+[28,   400] loss: 3.554e-04
+Training loss: 0.000, train NMSE: -8.467e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -8.499e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 29 of 100
+Training
+Check SFA Loss weight is working
+0
+[29,   100] loss: 3.557e-04
+[29,   200] loss: 3.562e-04
+[29,   300] loss: 3.535e-04
+[29,   400] loss: 3.533e-04
+[29,   500] loss: 3.536e-04
+[29,   600] loss: 3.511e-04
+[29,   700] loss: 3.524e-04
+Learning Rate: 0.00016571428571428572
+Validation
+[29,   100] loss: 3.519e-04
+[29,   200] loss: 3.511e-04
+[29,   300] loss: 3.512e-04
+[29,   400] loss: 3.509e-04
+Training loss: 0.000, train NMSE: -8.631e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -8.360e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 30 of 100
+Training
+Check SFA Loss weight is working
+0
+[30,   100] loss: 3.509e-04
+[30,   200] loss: 3.495e-04
+[30,   300] loss: 3.506e-04
+[30,   400] loss: 3.478e-04
+[30,   500] loss: 3.454e-04
+[30,   600] loss: 3.461e-04
+[30,   700] loss: 3.469e-04
+Learning Rate: 0.00017142857142857145
+Validation
+[30,   100] loss: 3.452e-04
+[30,   200] loss: 3.439e-04
+[30,   300] loss: 3.454e-04
+[30,   400] loss: 3.437e-04
+Training loss: 0.000, train NMSE: -9.735e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.151e+00, validation acc: 0.444
+
+Best validation loss: -9.150566101074219
+
+Saving best model for epoch: 30
+
+--------------------------------------------------
+[INFO]: Epoch 31 of 100
+Training
+Check SFA Loss weight is working
+0
+[31,   100] loss: 3.447e-04
+[31,   200] loss: 3.426e-04
+[31,   300] loss: 3.414e-04
+[31,   400] loss: 3.419e-04
+[31,   500] loss: 3.418e-04
+[31,   600] loss: 3.382e-04
+[31,   700] loss: 3.375e-04
+Learning Rate: 0.00017714285714285716
+Validation
+[31,   100] loss: 3.382e-04
+[31,   200] loss: 3.371e-04
+[31,   300] loss: 3.356e-04
+[31,   400] loss: 3.375e-04
+Training loss: 0.000, train NMSE: -9.400e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.489e+00, validation acc: 0.444
+
+Best validation loss: -9.488676071166992
+
+Saving best model for epoch: 31
+
+--------------------------------------------------
+[INFO]: Epoch 32 of 100
+Training
+Check SFA Loss weight is working
+0
+[32,   100] loss: 3.370e-04
+[32,   200] loss: 3.365e-04
+[32,   300] loss: 3.339e-04
+[32,   400] loss: 3.353e-04
+[32,   500] loss: 3.336e-04
+[32,   600] loss: 3.343e-04
+[32,   700] loss: 3.327e-04
+Learning Rate: 0.0001828571428571429
+Validation
+[32,   100] loss: 3.311e-04
+[32,   200] loss: 3.333e-04
+[32,   300] loss: 3.320e-04
+[32,   400] loss: 3.318e-04
+Training loss: 0.000, train NMSE: -9.829e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.581e+00, validation acc: 0.444
+
+Best validation loss: -9.581156730651855
+
+Saving best model for epoch: 32
+
+--------------------------------------------------
+[INFO]: Epoch 33 of 100
+Training
+Check SFA Loss weight is working
+0
+[33,   100] loss: 3.317e-04
+[33,   200] loss: 3.315e-04
+[33,   300] loss: 3.304e-04
+[33,   400] loss: 3.292e-04
+[33,   500] loss: 3.295e-04
+[33,   600] loss: 3.282e-04
+[33,   700] loss: 3.263e-04
+Learning Rate: 0.0001885714285714286
+Validation
+[33,   100] loss: 3.263e-04
+[33,   200] loss: 3.261e-04
+[33,   300] loss: 3.276e-04
+[33,   400] loss: 3.277e-04
+Training loss: 0.000, train NMSE: -9.309e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.822e+00, validation acc: 0.444
+
+Best validation loss: -9.822084426879883
+
+Saving best model for epoch: 33
+
+--------------------------------------------------
+[INFO]: Epoch 34 of 100
+Training
+Check SFA Loss weight is working
+0
+[34,   100] loss: 3.253e-04
+[34,   200] loss: 3.261e-04
+[34,   300] loss: 3.251e-04
+[34,   400] loss: 3.238e-04
+[34,   500] loss: 3.244e-04
+[34,   600] loss: 3.235e-04
+[34,   700] loss: 3.234e-04
+Learning Rate: 0.00019428571428571428
+Validation
+[34,   100] loss: 3.221e-04
+[34,   200] loss: 3.209e-04
+[34,   300] loss: 3.223e-04
+[34,   400] loss: 3.202e-04
+Training loss: 0.000, train NMSE: -1.053e+01, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.916e+00, validation acc: 0.444
+
+Best validation loss: -9.91622543334961
+
+Saving best model for epoch: 34
+
+--------------------------------------------------
+[INFO]: Epoch 35 of 100
+Training
+Check SFA Loss weight is working
+0
+[35,   100] loss: 3.223e-04
+[35,   200] loss: 3.202e-04
+[35,   300] loss: 3.183e-04
+[35,   400] loss: 3.176e-04
+[35,   500] loss: 3.181e-04
+[35,   600] loss: 3.168e-04
+[35,   700] loss: 3.171e-04
+Learning Rate: 0.0002
+Validation
+[35,   100] loss: 3.165e-04
+[35,   200] loss: 3.157e-04
+[35,   300] loss: 3.147e-04
+[35,   400] loss: 3.134e-04
+Training loss: 0.000, train NMSE: -1.009e+01, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -1.082e+01, validation acc: 0.444
+
+Best validation loss: -10.822214126586914
+
+Saving best model for epoch: 35
+
+--------------------------------------------------
+[INFO]: Epoch 36 of 100
+Training
+Check SFA Loss weight is working
+1
+[36,   100] loss: 1.310e-03
+[36,   200] loss: 5.160e-04
+[36,   300] loss: 4.649e-04
+[36,   400] loss: 4.371e-04
+[36,   500] loss: 4.334e-04
+[36,   600] loss: 4.214e-04
+[36,   700] loss: 4.128e-04
+Learning Rate: 0.00019994161134161636
+Validation
+[36,   100] loss: 3.414e-04
+[36,   200] loss: 3.425e-04
+[36,   300] loss: 3.424e-04
+[36,   400] loss: 3.415e-04
+Training loss: 0.001, train NMSE: -9.302e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.466e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 37 of 100
+Training
+Check SFA Loss weight is working
+1
+[37,   100] loss: 4.095e-04
+[37,   200] loss: 4.056e-04
+[37,   300] loss: 4.021e-04
+[37,   400] loss: 3.993e-04
+[37,   500] loss: 3.942e-04
+[37,   600] loss: 3.938e-04
+[37,   700] loss: 3.902e-04
+Learning Rate: 0.00019976658173588243
+Validation
+[37,   100] loss: 3.282e-04
+[37,   200] loss: 3.311e-04
+[37,   300] loss: 3.292e-04
+[37,   400] loss: 3.272e-04
+Training loss: 0.000, train NMSE: -1.003e+01, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -1.006e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 38 of 100
+Training
+Check SFA Loss weight is working
+1
+[38,   100] loss: 3.911e-04
+[38,   200] loss: 3.866e-04
+[38,   300] loss: 3.837e-04
+[38,   400] loss: 3.821e-04
+[38,   500] loss: 3.838e-04
+[38,   600] loss: 3.795e-04
+[38,   700] loss: 3.818e-04
+Learning Rate: 0.00019947531997255256
+Validation
+[38,   100] loss: 3.212e-04
+[38,   200] loss: 3.197e-04
+[38,   300] loss: 3.214e-04
+[38,   400] loss: 3.224e-04
+Training loss: 0.000, train NMSE: -1.036e+01, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.631e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 39 of 100
+Training
+Check SFA Loss weight is working
+1
+[39,   100] loss: 3.764e-04
+[39,   200] loss: 3.754e-04
+[39,   300] loss: 3.726e-04
+[39,   400] loss: 3.771e-04
+[39,   500] loss: 3.742e-04
+[39,   600] loss: 3.719e-04
+[39,   700] loss: 3.664e-04
+Learning Rate: 0.00019906850630697069
+Validation
+[39,   100] loss: 3.151e-04
+[39,   200] loss: 3.157e-04
+[39,   300] loss: 3.162e-04
+[39,   400] loss: 3.144e-04
+Training loss: 0.000, train NMSE: -9.771e+00, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -9.789e+00, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 40 of 100
+Training
+Check SFA Loss weight is working
+1
+[40,   100] loss: 3.665e-04
+[40,   200] loss: 3.712e-04
+[40,   300] loss: 3.643e-04
+[40,   400] loss: 3.681e-04
+[40,   500] loss: 3.634e-04
+[40,   600] loss: 3.650e-04
+[40,   700] loss: 3.600e-04
+Learning Rate: 0.0001985470908713026
+Validation
+[40,   100] loss: 3.078e-04
+[40,   200] loss: 3.113e-04
+[40,   300] loss: 3.093e-04
+[40,   400] loss: 3.094e-04
+Training loss: 0.000, train NMSE: -1.119e+01, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -1.026e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 41 of 100
+Training
+Check SFA Loss weight is working
+1
+[41,   100] loss: 3.588e-04
+[41,   200] loss: 3.587e-04
+[41,   300] loss: 3.594e-04
+[41,   400] loss: 3.607e-04
+[41,   500] loss: 3.629e-04
+[41,   600] loss: 3.559e-04
+[41,   700] loss: 3.529e-04
+Learning Rate: 0.0001979122914554583
+Validation
+[41,   100] loss: 3.058e-04
+[41,   200] loss: 3.050e-04
+[41,   300] loss: 3.055e-04
+[41,   400] loss: 3.040e-04
+Training loss: 0.000, train NMSE: -1.027e+01, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -1.117e+01, validation acc: 0.444
+
+Best validation loss: -11.168805122375488
+
+Saving best model for epoch: 41
+
+--------------------------------------------------
+[INFO]: Epoch 42 of 100
+Training
+Check SFA Loss weight is working
+1
+[42,   100] loss: 3.558e-04
+[42,   200] loss: 3.515e-04
+[42,   300] loss: 3.551e-04
+[42,   400] loss: 3.507e-04
+[42,   500] loss: 3.538e-04
+[42,   600] loss: 3.494e-04
+[42,   700] loss: 3.486e-04
+Learning Rate: 0.00019716559066288716
+Validation
+[42,   100] loss: 3.027e-04
+[42,   200] loss: 3.018e-04
+[42,   300] loss: 3.026e-04
+[42,   400] loss: 3.020e-04
+Training loss: 0.000, train NMSE: -1.076e+01, training acc: 0.444
+Validation loss: 0.000, valid_NMSE: -1.092e+01, validation acc: 0.444
+--------------------------------------------------
+[INFO]: Epoch 43 of 100
+Training
+Check SFA Loss weight is working
+1
+[43,   100] loss: 3.477e-04
+[43,   200] loss: 3.482e-04
+[43,   300] loss: 3.446e-04
+[43,   400] loss: 3.472e-04
+[43,   500] loss: 3.434e-04
+[43,   600] loss: 3.417e-04
+[43,   700] loss: 3.427e-04
+Learning Rate: 0.00019630873244788882
+Validation
+[43,   100] loss: 2.938e-04
+[43,   200] loss: 2.934e-04
+[43,   300] loss: 2.918e-04
+[43,   400] loss: 2.923e-04
+Training loss: 0.000, train NMSE: -1.114e+01, training acc: 0.474
+Validation loss: 0.000, valid_NMSE: -1.136e+01, validation acc: 0.539
+
+Best validation loss: -11.364748001098633
+
+Saving best model for epoch: 43
+
+--------------------------------------------------
+[INFO]: Epoch 44 of 100
+Training
+Check SFA Loss weight is working
+1
+[44,   100] loss: 3.381e-04
+[44,   200] loss: 3.358e-04
+[44,   300] loss: 3.324e-04
+[44,   400] loss: 3.315e-04
+[44,   500] loss: 3.297e-04
+[44,   600] loss: 3.256e-04
+[44,   700] loss: 3.225e-04
+Learning Rate: 0.0001953437180425273
+Validation
+[44,   100] loss: 2.777e-04
+[44,   200] loss: 2.773e-04
+[44,   300] loss: 2.763e-04
+[44,   400] loss: 2.776e-04
+Training loss: 0.000, train NMSE: -1.155e+01, training acc: 0.565
+Validation loss: 0.000, valid_NMSE: -1.086e+01, validation acc: 0.579
+--------------------------------------------------
+[INFO]: Epoch 45 of 100
+Training
+Check SFA Loss weight is working
+1
+[45,   100] loss: 3.224e-04
+[45,   200] loss: 3.171e-04
+[45,   300] loss: 3.131e-04
+[45,   400] loss: 3.095e-04
+[45,   500] loss: 3.060e-04
+[45,   600] loss: 3.066e-04
+[45,   700] loss: 3.048e-04
+Learning Rate: 0.0001942728012826605
+Validation
+[45,   100] loss: 2.571e-04
+[45,   200] loss: 2.564e-04
+[45,   300] loss: 2.563e-04
+[45,   400] loss: 2.562e-04
+Training loss: 0.000, train NMSE: -1.100e+01, training acc: 0.590
+Validation loss: 0.000, valid_NMSE: -1.105e+01, validation acc: 0.603
+--------------------------------------------------
+[INFO]: Epoch 46 of 100
+Training
+Check SFA Loss weight is working
+1
+[46,   100] loss: 2.990e-04
+[46,   200] loss: 2.930e-04
+[46,   300] loss: 2.896e-04
+[46,   400] loss: 2.914e-04
+[46,   500] loss: 2.835e-04
+[46,   600] loss: 2.841e-04
+[46,   700] loss: 2.753e-04
+Learning Rate: 0.00019309848334400246
+Validation
+[46,   100] loss: 2.329e-04
+[46,   200] loss: 2.324e-04
+[46,   300] loss: 2.330e-04
+[46,   400] loss: 2.331e-04
+Training loss: 0.000, train NMSE: -1.122e+01, training acc: 0.626
+Validation loss: 0.000, valid_NMSE: -1.105e+01, validation acc: 0.642
+--------------------------------------------------
+[INFO]: Epoch 47 of 100
+Training
+Check SFA Loss weight is working
+1
+[47,   100] loss: 2.720e-04
+[47,   200] loss: 2.702e-04
+[47,   300] loss: 2.653e-04
+[47,   400] loss: 2.631e-04
+[47,   500] loss: 2.557e-04
+[47,   600] loss: 2.530e-04
+[47,   700] loss: 2.506e-04
+Learning Rate: 0.00019182350690051135
+Validation
+[47,   100] loss: 2.078e-04
+[47,   200] loss: 2.070e-04
+[47,   300] loss: 2.081e-04
+[47,   400] loss: 2.080e-04
+Training loss: 0.000, train NMSE: -1.085e+01, training acc: 0.667
+Validation loss: 0.000, valid_NMSE: -1.131e+01, validation acc: 0.679
+--------------------------------------------------
+[INFO]: Epoch 48 of 100
+Training
+Check SFA Loss weight is working
+1
+[48,   100] loss: 2.474e-04
+[48,   200] loss: 2.435e-04
+[48,   300] loss: 2.417e-04
+[48,   400] loss: 2.389e-04
+[48,   500] loss: 2.329e-04
+[48,   600] loss: 2.336e-04
+[48,   700] loss: 2.278e-04
+Learning Rate: 0.0001904508497187474
+Validation
+[48,   100] loss: 1.885e-04
+[48,   200] loss: 1.892e-04
+[48,   300] loss: 1.886e-04
+[48,   400] loss: 1.879e-04
+Training loss: 0.000, train NMSE: -1.078e+01, training acc: 0.707
+Validation loss: 0.000, valid_NMSE: -1.094e+01, validation acc: 0.700
+--------------------------------------------------
+[INFO]: Epoch 49 of 100
+Training
+Check SFA Loss weight is working
+1
+[49,   100] loss: 2.236e-04
+[49,   200] loss: 2.231e-04
+[49,   300] loss: 2.205e-04
+[49,   400] loss: 2.194e-04
+[49,   500] loss: 2.179e-04
+[49,   600] loss: 2.130e-04
+[49,   700] loss: 2.116e-04
+Learning Rate: 0.0001889837177031611
+Validation
+[49,   100] loss: 1.734e-04
+[49,   200] loss: 1.731e-04
+[49,   300] loss: 1.753e-04
+[49,   400] loss: 1.734e-04
+Training loss: 0.000, train NMSE: -1.122e+01, training acc: 0.774
+Validation loss: 0.000, valid_NMSE: -1.124e+01, validation acc: 0.768
+--------------------------------------------------
+[INFO]: Epoch 50 of 100
+Training
+Check SFA Loss weight is working
+1
+[50,   100] loss: 2.081e-04
+[50,   200] loss: 2.109e-04
+[50,   300] loss: 2.058e-04
+[50,   400] loss: 2.026e-04
+[50,   500] loss: 2.011e-04
+[50,   600] loss: 1.984e-04
+[50,   700] loss: 2.002e-04
+Learning Rate: 0.00018742553740855506
+Validation
+[50,   100] loss: 1.629e-04
+[50,   200] loss: 1.619e-04
+[50,   300] loss: 1.629e-04
+[50,   400] loss: 1.629e-04
+Training loss: 0.000, train NMSE: -1.091e+01, training acc: 0.808
+Validation loss: 0.000, valid_NMSE: -1.093e+01, validation acc: 0.818
+--------------------------------------------------
+[INFO]: Epoch 51 of 100
+Training
+Check SFA Loss weight is working
+1
+[51,   100] loss: 1.963e-04
+[51,   200] loss: 1.955e-04
+[51,   300] loss: 1.922e-04
+[51,   400] loss: 1.891e-04
+[51,   500] loss: 1.894e-04
+[51,   600] loss: 1.856e-04
+[51,   700] loss: 1.826e-04
+Learning Rate: 0.00018577994803720607
+Validation
+[51,   100] loss: 1.441e-04
+[51,   200] loss: 1.455e-04
+[51,   300] loss: 1.439e-04
+[51,   400] loss: 1.436e-04
+Training loss: 0.000, train NMSE: -1.175e+01, training acc: 0.832
+Validation loss: 0.000, valid_NMSE: -1.118e+01, validation acc: 0.849
+--------------------------------------------------
+[INFO]: Epoch 52 of 100
+Training
+Check SFA Loss weight is working
+1
+[52,   100] loss: 1.752e-04
+[52,   200] loss: 1.788e-04
+[52,   300] loss: 1.722e-04
+[52,   400] loss: 1.738e-04
+[52,   500] loss: 1.683e-04
+[52,   600] loss: 1.666e-04
+[52,   700] loss: 1.647e-04
+Learning Rate: 0.00018405079293933987
+Validation
+[52,   100] loss: 1.297e-04
+[52,   200] loss: 1.286e-04
+[52,   300] loss: 1.288e-04
+[52,   400] loss: 1.297e-04
+Training loss: 0.000, train NMSE: -1.112e+01, training acc: 0.880
+Validation loss: 0.000, valid_NMSE: -1.060e+01, validation acc: 0.885
+--------------------------------------------------
+[INFO]: Epoch 53 of 100
+Training
+Check SFA Loss weight is working
+1
+[53,   100] loss: 1.620e-04
+[53,   200] loss: 1.602e-04
+[53,   300] loss: 1.628e-04
+[53,   400] loss: 1.548e-04
+[53,   500] loss: 1.628e-04
+[53,   600] loss: 1.550e-04
+[53,   700] loss: 1.534e-04
+Learning Rate: 0.00018224211063680852
+Validation
+[53,   100] loss: 1.190e-04
+[53,   200] loss: 1.166e-04
+[53,   300] loss: 1.160e-04
+[53,   400] loss: 1.177e-04
+Training loss: 0.000, train NMSE: -1.149e+01, training acc: 0.896
+Validation loss: 0.000, valid_NMSE: -1.068e+01, validation acc: 0.900
+--------------------------------------------------
+[INFO]: Epoch 54 of 100
+Training
+Check SFA Loss weight is working
+1
+[54,   100] loss: 1.502e-04
+[54,   200] loss: 1.486e-04
+[54,   300] loss: 1.547e-04
+[54,   400] loss: 1.485e-04
+[54,   500] loss: 1.433e-04
+[54,   600] loss: 1.508e-04
+[54,   700] loss: 1.412e-04
+Learning Rate: 0.00018035812539093557
+Validation
+[54,   100] loss: 1.146e-04
+[54,   200] loss: 1.117e-04
+[54,   300] loss: 1.136e-04
+[54,   400] loss: 1.142e-04
+Training loss: 0.000, train NMSE: -1.085e+01, training acc: 0.906
+Validation loss: 0.000, valid_NMSE: -1.194e+01, validation acc: 0.880
+
+Best validation loss: -11.940475463867188
+
+Saving best model for epoch: 54
+
+--------------------------------------------------
+[INFO]: Epoch 55 of 100
+Training
+Check SFA Loss weight is working
+1
+[55,   100] loss: 1.408e-04
+[55,   200] loss: 1.394e-04
+[55,   300] loss: 1.407e-04
+[55,   400] loss: 1.393e-04
+[55,   500] loss: 1.388e-04
+[55,   600] loss: 1.354e-04
+[55,   700] loss: 1.356e-04
+Learning Rate: 0.0001784032373365578
+Validation
+[55,   100] loss: 1.044e-04
+[55,   200] loss: 1.013e-04
+[55,   300] loss: 1.019e-04
+[55,   400] loss: 1.031e-04
+Training loss: 0.000, train NMSE: -1.072e+01, training acc: 0.916
+Validation loss: 0.000, valid_NMSE: -1.187e+01, validation acc: 0.915
+--------------------------------------------------
+[INFO]: Epoch 56 of 100
+Training
+Check SFA Loss weight is working
+1
+[56,   100] loss: 1.347e-04
+[56,   200] loss: 1.337e-04
+[56,   300] loss: 1.366e-04
+[56,   400] loss: 1.335e-04
+[56,   500] loss: 1.269e-04
+[56,   600] loss: 1.288e-04
+[56,   700] loss: 1.297e-04
+Learning Rate: 0.00017638201220530664
+Validation
+[56,   100] loss: 1.025e-04
+[56,   200] loss: 1.027e-04
+[56,   300] loss: 1.019e-04
+[56,   400] loss: 1.033e-04
+Training loss: 0.000, train NMSE: -1.079e+01, training acc: 0.920
+Validation loss: 0.000, valid_NMSE: -1.248e+01, validation acc: 0.897
+
+Best validation loss: -12.483888626098633
+
+Saving best model for epoch: 56
+
+--------------------------------------------------
+[INFO]: Epoch 57 of 100
+Training
+Check SFA Loss weight is working
+1
+[57,   100] loss: 1.279e-04
+[57,   200] loss: 1.298e-04
+[57,   300] loss: 1.236e-04
+[57,   400] loss: 1.233e-04
+[57,   500] loss: 1.242e-04
+[57,   600] loss: 1.254e-04
+[57,   700] loss: 1.235e-04
+Learning Rate: 0.0001742991706621303
+Validation
+[57,   100] loss: 9.116e-05
+[57,   200] loss: 9.297e-05
+[57,   300] loss: 9.282e-05
+[57,   400] loss: 9.060e-05
+Training loss: 0.000, train NMSE: -1.219e+01, training acc: 0.927
+Validation loss: 0.000, valid_NMSE: -1.124e+01, validation acc: 0.928
+--------------------------------------------------
+[INFO]: Epoch 58 of 100
+Training
+Check SFA Loss weight is working
+1
+[58,   100] loss: 1.190e-04
+[58,   200] loss: 1.183e-04
+[58,   300] loss: 1.251e-04
+[58,   400] loss: 1.185e-04
+[58,   500] loss: 1.193e-04
+[58,   600] loss: 1.174e-04
+[58,   700] loss: 1.153e-04
+Learning Rate: 0.00017215957727996208
+Validation
+[58,   100] loss: 8.881e-05
+[58,   200] loss: 8.717e-05
+[58,   300] loss: 8.637e-05
+[58,   400] loss: 8.739e-05
+Training loss: 0.000, train NMSE: -1.114e+01, training acc: 0.934
+Validation loss: 0.000, valid_NMSE: -1.164e+01, validation acc: 0.932
+--------------------------------------------------
+[INFO]: Epoch 59 of 100
+Training
+Check SFA Loss weight is working
+1
+[59,   100] loss: 1.139e-04
+[59,   200] loss: 1.170e-04
+[59,   300] loss: 1.233e-04
+[59,   400] loss: 1.166e-04
+[59,   500] loss: 1.120e-04
+[59,   600] loss: 1.187e-04
+[59,   700] loss: 1.121e-04
+Learning Rate: 0.0001699682291782848
+Validation
+[59,   100] loss: 8.399e-05
+[59,   200] loss: 8.450e-05
+[59,   300] loss: 8.376e-05
+[59,   400] loss: 8.323e-05
+Training loss: 0.000, train NMSE: -1.111e+01, training acc: 0.935
+Validation loss: 0.000, valid_NMSE: -1.094e+01, validation acc: 0.933
+--------------------------------------------------
+[INFO]: Epoch 60 of 100
+Training
+Check SFA Loss weight is working
+1
+[60,   100] loss: 1.111e-04
+[60,   200] loss: 1.094e-04
+[60,   300] loss: 1.084e-04
+[60,   400] loss: 1.123e-04
+[60,   500] loss: 1.081e-04
+[60,   600] loss: 1.128e-04
+[60,   700] loss: 1.052e-04
+Learning Rate: 0.0001677302443521268
+Validation
+[60,   100] loss: 8.050e-05
+[60,   200] loss: 8.149e-05
+[60,   300] loss: 8.089e-05
+[60,   400] loss: 8.273e-05
+Training loss: 0.000, train NMSE: -1.173e+01, training acc: 0.944
+Validation loss: 0.000, valid_NMSE: -1.221e+01, validation acc: 0.948
+--------------------------------------------------
+[INFO]: Epoch 61 of 100
+Training
+Check SFA Loss weight is working
+1
+[61,   100] loss: 1.409e-04
+[61,   200] loss: 1.182e-04
+[61,   300] loss: 1.083e-04
+[61,   400] loss: 1.048e-04
+[61,   500] loss: 1.037e-04
+[61,   600] loss: 1.056e-04
+[61,   700] loss: 1.059e-04
+Learning Rate: 0.0001654508497187474
+Validation
+[61,   100] loss: 8.145e-05
+[61,   200] loss: 8.359e-05
+[61,   300] loss: 8.359e-05
+[61,   400] loss: 8.248e-05
+Training loss: 0.000, train NMSE: -1.227e+01, training acc: 0.932
+Validation loss: 0.000, valid_NMSE: -1.200e+01, validation acc: 0.930
+--------------------------------------------------
+[INFO]: Epoch 62 of 100
+Training
+Check SFA Loss weight is working
+1
+[62,   100] loss: 1.050e-04
+[62,   200] loss: 1.013e-04
+[62,   300] loss: 1.022e-04
+[62,   400] loss: 1.021e-04
+[62,   500] loss: 1.009e-04
+[62,   600] loss: 1.001e-04
+[62,   700] loss: 1.015e-04
+Learning Rate: 0.00016313536890992937
+Validation
+[62,   100] loss: 7.433e-05
+[62,   200] loss: 7.349e-05
+[62,   300] loss: 7.231e-05
+[62,   400] loss: 7.302e-05
+Training loss: 0.000, train NMSE: -1.221e+01, training acc: 0.952
+Validation loss: 0.000, valid_NMSE: -1.145e+01, validation acc: 0.945
+--------------------------------------------------
+[INFO]: Epoch 63 of 100
+Training
+Check SFA Loss weight is working
+1
+[63,   100] loss: 1.007e-04
+[63,   200] loss: 1.004e-04
+[63,   300] loss: 1.003e-04
+[63,   400] loss: 1.042e-04
+[63,   500] loss: 9.861e-05
+[63,   600] loss: 9.874e-05
+[63,   700] loss: 9.852e-05
+Learning Rate: 0.0001607892098383903
+Validation
+[63,   100] loss: 7.704e-05
+[63,   200] loss: 7.387e-05
+[63,   300] loss: 7.425e-05
+[63,   400] loss: 7.490e-05
+Training loss: 0.000, train NMSE: -1.210e+01, training acc: 0.952
+Validation loss: 0.000, valid_NMSE: -1.194e+01, validation acc: 0.947
+--------------------------------------------------
+[INFO]: Epoch 64 of 100
+Training
+Check SFA Loss weight is working
+1
+[64,   100] loss: 9.518e-05
+[64,   200] loss: 9.691e-05
+[64,   300] loss: 9.669e-05
+[64,   400] loss: 9.613e-05
+[64,   500] loss: 9.571e-05
+[64,   600] loss: 9.863e-05
+[64,   700] loss: 9.537e-05
+Learning Rate: 0.00015841785206735195
+Validation
+[64,   100] loss: 6.926e-05
+[64,   200] loss: 6.838e-05
+[64,   300] loss: 6.960e-05
+[64,   400] loss: 6.947e-05
+Training loss: 0.000, train NMSE: -1.258e+01, training acc: 0.957
+Validation loss: 0.000, valid_NMSE: -1.196e+01, validation acc: 0.955
+--------------------------------------------------
+[INFO]: Epoch 65 of 100
+Training
+Check SFA Loss weight is working
+1
+[65,   100] loss: 9.460e-05
+[65,   200] loss: 9.563e-05
+[65,   300] loss: 9.411e-05
+[65,   400] loss: 9.282e-05
+[65,   500] loss: 9.259e-05
+[65,   600] loss: 9.173e-05
+[65,   700] loss: 9.124e-05
+Learning Rate: 0.00015602683401276616
+Validation
+[65,   100] loss: 6.746e-05
+[65,   200] loss: 6.835e-05
+[65,   300] loss: 7.035e-05
+[65,   400] loss: 6.860e-05
+Training loss: 0.000, train NMSE: -1.165e+01, training acc: 0.960
+Validation loss: 0.000, valid_NMSE: -1.236e+01, validation acc: 0.953
+--------------------------------------------------
+[INFO]: Epoch 66 of 100
+Training
+Check SFA Loss weight is working
+1
+[66,   100] loss: 9.067e-05
+[66,   200] loss: 9.710e-05
+[66,   300] loss: 9.096e-05
+[66,   400] loss: 8.922e-05
+[66,   500] loss: 9.224e-05
+[66,   600] loss: 8.978e-05
+[66,   700] loss: 8.911e-05
+Learning Rate: 0.00015362174000808812
+Validation
+[66,   100] loss: 6.950e-05
+[66,   200] loss: 6.689e-05
+[66,   300] loss: 6.596e-05
+[66,   400] loss: 6.830e-05
+Training loss: 0.000, train NMSE: -1.288e+01, training acc: 0.962
+Validation loss: 0.000, valid_NMSE: -1.270e+01, validation acc: 0.959
+
+Best validation loss: -12.701325416564941
+
+Saving best model for epoch: 66
+
+--------------------------------------------------
+[INFO]: Epoch 67 of 100
+Training
+Check SFA Loss weight is working
+1
+[67,   100] loss: 8.691e-05
+[67,   200] loss: 8.996e-05
+[67,   300] loss: 8.988e-05
+[67,   400] loss: 8.707e-05
+[67,   500] loss: 8.795e-05
+[67,   600] loss: 8.683e-05
+[67,   700] loss: 8.869e-05
+Learning Rate: 0.00015120818726180663
+Validation
+[67,   100] loss: 6.395e-05
+[67,   200] loss: 6.639e-05
+[67,   300] loss: 6.614e-05
+[67,   400] loss: 6.596e-05
+Training loss: 0.000, train NMSE: -1.174e+01, training acc: 0.965
+Validation loss: 0.000, valid_NMSE: -1.251e+01, validation acc: 0.956
+--------------------------------------------------
+[INFO]: Epoch 68 of 100
+Training
+Check SFA Loss weight is working
+1
+[68,   100] loss: 8.573e-05
+[68,   200] loss: 8.782e-05
+[68,   300] loss: 9.137e-05
+[68,   400] loss: 9.059e-05
+[68,   500] loss: 8.416e-05
+[68,   600] loss: 9.048e-05
+[68,   700] loss: 8.550e-05
+Learning Rate: 0.0001487918127381934
+Validation
+[68,   100] loss: 6.493e-05
+[68,   200] loss: 6.272e-05
+[68,   300] loss: 6.499e-05
+[68,   400] loss: 6.380e-05
+Training loss: 0.000, train NMSE: -1.313e+01, training acc: 0.963
+Validation loss: 0.000, valid_NMSE: -1.230e+01, validation acc: 0.960
+--------------------------------------------------
+[INFO]: Epoch 69 of 100
+Training
+Check SFA Loss weight is working
+1
+[69,   100] loss: 8.295e-05
+[69,   200] loss: 8.507e-05
+[69,   300] loss: 8.531e-05
+[69,   400] loss: 8.497e-05
+[69,   500] loss: 8.493e-05
+[69,   600] loss: 8.304e-05
+[69,   700] loss: 8.367e-05
+Learning Rate: 0.00014637825999191188
+Validation
+[69,   100] loss: 6.288e-05
+[69,   200] loss: 6.353e-05
+[69,   300] loss: 6.255e-05
+[69,   400] loss: 6.352e-05
+Training loss: 0.000, train NMSE: -1.221e+01, training acc: 0.968
+Validation loss: 0.000, valid_NMSE: -1.240e+01, validation acc: 0.960
+--------------------------------------------------
+[INFO]: Epoch 70 of 100
+Training
+Check SFA Loss weight is working
+1
+[70,   100] loss: 8.193e-05
+[70,   200] loss: 8.143e-05
+[70,   300] loss: 8.116e-05
+[70,   400] loss: 8.385e-05
+[70,   500] loss: 8.230e-05
+[70,   600] loss: 8.235e-05
+[70,   700] loss: 8.431e-05
+Learning Rate: 0.00014397316598723384
+Validation
+[70,   100] loss: 6.269e-05
+[70,   200] loss: 6.261e-05
+[70,   300] loss: 6.223e-05
+[70,   400] loss: 6.155e-05
+Training loss: 0.000, train NMSE: -1.293e+01, training acc: 0.970
+Validation loss: 0.000, valid_NMSE: -1.305e+01, validation acc: 0.960
+
+Best validation loss: -13.053573608398438
+
+Saving best model for epoch: 70
+
+--------------------------------------------------
+[INFO]: Epoch 71 of 100
+Training
+Check SFA Loss weight is working
+1
+[71,   100] loss: 8.056e-05
+[71,   200] loss: 8.215e-05
+[71,   300] loss: 8.242e-05
+[71,   400] loss: 7.959e-05
+[71,   500] loss: 8.136e-05
+[71,   600] loss: 7.789e-05
+[71,   700] loss: 8.198e-05
+Learning Rate: 0.00014158214793264808
+Validation
+[71,   100] loss: 5.995e-05
+[71,   200] loss: 6.107e-05
+[71,   300] loss: 5.944e-05
+[71,   400] loss: 6.153e-05
+Training loss: 0.000, train NMSE: -1.220e+01, training acc: 0.971
+Validation loss: 0.000, valid_NMSE: -1.228e+01, validation acc: 0.965
+--------------------------------------------------
+[INFO]: Epoch 72 of 100
+Training
+Check SFA Loss weight is working
+1
+[72,   100] loss: 7.745e-05
+[72,   200] loss: 1.005e-04
+[72,   300] loss: 8.033e-05
+[72,   400] loss: 7.894e-05
+[72,   500] loss: 7.672e-05
+[72,   600] loss: 7.962e-05
+[72,   700] loss: 8.063e-05
+Learning Rate: 0.00013921079016160972
+Validation
+[72,   100] loss: 5.661e-05
+[72,   200] loss: 5.735e-05
+[72,   300] loss: 5.998e-05
+[72,   400] loss: 5.703e-05
+Training loss: 0.000, train NMSE: -1.291e+01, training acc: 0.967
+Validation loss: 0.000, valid_NMSE: -1.240e+01, validation acc: 0.968
+--------------------------------------------------
+[INFO]: Epoch 73 of 100
+Training
+Check SFA Loss weight is working
+1
+[73,   100] loss: 7.654e-05
+[73,   200] loss: 7.718e-05
+[73,   300] loss: 7.950e-05
+[73,   400] loss: 7.840e-05
+[73,   500] loss: 7.671e-05
+[73,   600] loss: 7.679e-05
+[73,   700] loss: 7.855e-05
+Learning Rate: 0.00013686463109007066
+Validation
+[73,   100] loss: 5.601e-05
+[73,   200] loss: 5.838e-05
+[73,   300] loss: 5.739e-05
+[73,   400] loss: 5.847e-05
+Training loss: 0.000, train NMSE: -1.277e+01, training acc: 0.974
+Validation loss: 0.000, valid_NMSE: -1.211e+01, validation acc: 0.965
+--------------------------------------------------
+[INFO]: Epoch 74 of 100
+Training
+Check SFA Loss weight is working
+1
+[74,   100] loss: 7.372e-05
+[74,   200] loss: 7.659e-05
+[74,   300] loss: 7.933e-05
+[74,   400] loss: 7.816e-05
+[74,   500] loss: 7.569e-05
+[74,   600] loss: 7.669e-05
+[74,   700] loss: 7.687e-05
+Learning Rate: 0.00013454915028125264
+Validation
+[74,   100] loss: 5.790e-05
+[74,   200] loss: 5.604e-05
+[74,   300] loss: 5.896e-05
+[74,   400] loss: 5.600e-05
+Training loss: 0.000, train NMSE: -1.198e+01, training acc: 0.974
+Validation loss: 0.000, valid_NMSE: -1.125e+01, validation acc: 0.964
+--------------------------------------------------
+[INFO]: Epoch 75 of 100
+Training
+Check SFA Loss weight is working
+1
+[75,   100] loss: 7.644e-05
+[75,   200] loss: 7.506e-05
+[75,   300] loss: 7.455e-05
+[75,   400] loss: 7.503e-05
+[75,   500] loss: 7.480e-05
+[75,   600] loss: 7.286e-05
+[75,   700] loss: 7.610e-05
+Learning Rate: 0.00013226975564787323
+Validation
+[75,   100] loss: 5.807e-05
+[75,   200] loss: 5.812e-05
+[75,   300] loss: 5.953e-05
+[75,   400] loss: 5.707e-05
+Training loss: 0.000, train NMSE: -1.380e+01, training acc: 0.976
+Validation loss: 0.000, valid_NMSE: -1.242e+01, validation acc: 0.969
+--------------------------------------------------
+[INFO]: Epoch 76 of 100
+Training
+Check SFA Loss weight is working
+1
+[76,   100] loss: 7.104e-05
+[76,   200] loss: 7.174e-05
+[76,   300] loss: 7.528e-05
+[76,   400] loss: 7.478e-05
+[76,   500] loss: 7.512e-05
+[76,   600] loss: 7.238e-05
+[76,   700] loss: 7.482e-05
+Learning Rate: 0.00013003177082171523
+Validation
+[76,   100] loss: 5.435e-05
+[76,   200] loss: 5.476e-05
+[76,   300] loss: 5.558e-05
+[76,   400] loss: 5.410e-05
+Training loss: 0.000, train NMSE: -1.315e+01, training acc: 0.977
+Validation loss: 0.000, valid_NMSE: -1.267e+01, validation acc: 0.971
+--------------------------------------------------
+[INFO]: Epoch 77 of 100
+Training
+Check SFA Loss weight is working
+1
+[77,   100] loss: 7.346e-05
+[77,   200] loss: 7.136e-05
+[77,   300] loss: 7.343e-05
+[77,   400] loss: 7.265e-05
+[77,   500] loss: 7.277e-05
+[77,   600] loss: 7.070e-05
+[77,   700] loss: 7.084e-05
+Learning Rate: 0.00012784042272003795
+Validation
+[77,   100] loss: 5.449e-05
+[77,   200] loss: 5.456e-05
+[77,   300] loss: 5.379e-05
+[77,   400] loss: 5.404e-05
+Training loss: 0.000, train NMSE: -1.237e+01, training acc: 0.978
+Validation loss: 0.000, valid_NMSE: -1.316e+01, validation acc: 0.970
+
+Best validation loss: -13.156120300292969
+
+Saving best model for epoch: 77
+
+--------------------------------------------------
+[INFO]: Epoch 78 of 100
+Training
+Check SFA Loss weight is working
+1
+[78,   100] loss: 7.083e-05
+[78,   200] loss: 7.147e-05
+[78,   300] loss: 7.539e-05
+[78,   400] loss: 6.931e-05
+[78,   500] loss: 6.879e-05
+[78,   600] loss: 7.255e-05
+[78,   700] loss: 7.137e-05
+Learning Rate: 0.0001257008293378697
+Validation
+[78,   100] loss: 5.562e-05
+[78,   200] loss: 5.604e-05
+[78,   300] loss: 5.525e-05
+[78,   400] loss: 5.518e-05
+Training loss: 0.000, train NMSE: -1.217e+01, training acc: 0.978
+Validation loss: 0.000, valid_NMSE: -1.254e+01, validation acc: 0.972
+--------------------------------------------------
+[INFO]: Epoch 79 of 100
+Training
+Check SFA Loss weight is working
+1
+[79,   100] loss: 6.944e-05
+[79,   200] loss: 6.846e-05
+[79,   300] loss: 7.105e-05
+[79,   400] loss: 7.069e-05
+[79,   500] loss: 6.786e-05
+[79,   600] loss: 6.966e-05
+[79,   700] loss: 7.213e-05
+Learning Rate: 0.00012361798779469336
+Validation
+[79,   100] loss: 5.276e-05
+[79,   200] loss: 5.376e-05
+[79,   300] loss: 5.424e-05
+[79,   400] loss: 5.384e-05
+Training loss: 0.000, train NMSE: -1.219e+01, training acc: 0.980
+Validation loss: 0.000, valid_NMSE: -1.286e+01, validation acc: 0.972
+--------------------------------------------------
+[INFO]: Epoch 80 of 100
+Training
+Check SFA Loss weight is working
+1
+[80,   100] loss: 7.008e-05
+[80,   200] loss: 6.740e-05
+[80,   300] loss: 6.829e-05
+[80,   400] loss: 6.829e-05
+[80,   500] loss: 7.182e-05
+[80,   600] loss: 7.260e-05
+[80,   700] loss: 6.843e-05
+Learning Rate: 0.00012159676266344223
+Validation
+[80,   100] loss: 5.209e-05
+[80,   200] loss: 5.250e-05
+[80,   300] loss: 5.265e-05
+[80,   400] loss: 5.223e-05
+Training loss: 0.000, train NMSE: -1.234e+01, training acc: 0.980
+Validation loss: 0.000, valid_NMSE: -1.332e+01, validation acc: 0.975
+
+Best validation loss: -13.315773010253906
+
+Saving best model for epoch: 80
+
+--------------------------------------------------
+[INFO]: Epoch 81 of 100
+Training
+Check SFA Loss weight is working
+1
+[81,   100] loss: 6.687e-05
+[81,   200] loss: 6.655e-05
+[81,   300] loss: 7.213e-05
+[81,   400] loss: 6.814e-05
+[81,   500] loss: 6.717e-05
+[81,   600] loss: 6.666e-05
+[81,   700] loss: 6.938e-05
+Learning Rate: 0.00011964187460906445
+Validation
+[81,   100] loss: 5.586e-05
+[81,   200] loss: 5.463e-05
+[81,   300] loss: 5.538e-05
+[81,   400] loss: 5.457e-05
+Training loss: 0.000, train NMSE: -1.264e+01, training acc: 0.981
+Validation loss: 0.000, valid_NMSE: -1.244e+01, validation acc: 0.968
+--------------------------------------------------
+[INFO]: Epoch 82 of 100
+Training
+Check SFA Loss weight is working
+1
+[82,   100] loss: 6.621e-05
+[82,   200] loss: 6.626e-05
+[82,   300] loss: 6.717e-05
+[82,   400] loss: 6.778e-05
+[82,   500] loss: 7.330e-05
+[82,   600] loss: 6.716e-05
+[82,   700] loss: 6.566e-05
+Learning Rate: 0.00011775788936319147
+Validation
+[82,   100] loss: 5.068e-05
+[82,   200] loss: 5.054e-05
+[82,   300] loss: 5.058e-05
+[82,   400] loss: 4.958e-05
+Training loss: 0.000, train NMSE: -1.263e+01, training acc: 0.981
+Validation loss: 0.000, valid_NMSE: -1.347e+01, validation acc: 0.976
+
+Best validation loss: -13.46967601776123
+
+Saving best model for epoch: 82
+
+--------------------------------------------------
+[INFO]: Epoch 83 of 100
+Training
+Check SFA Loss weight is working
+1
+[83,   100] loss: 6.421e-05
+[83,   200] loss: 6.624e-05
+[83,   300] loss: 6.588e-05
+[83,   400] loss: 6.644e-05
+[83,   500] loss: 6.446e-05
+[83,   600] loss: 6.709e-05
+[83,   700] loss: 6.526e-05
+Learning Rate: 0.00011594920706066016
+Validation
+[83,   100] loss: 5.139e-05
+[83,   200] loss: 5.008e-05
+[83,   300] loss: 5.139e-05
+[83,   400] loss: 5.107e-05
+Training loss: 0.000, train NMSE: -1.310e+01, training acc: 0.983
+Validation loss: 0.000, valid_NMSE: -1.286e+01, validation acc: 0.978
+--------------------------------------------------
+[INFO]: Epoch 84 of 100
+Training
+Check SFA Loss weight is working
+1
+[84,   100] loss: 6.437e-05
+[84,   200] loss: 6.474e-05
+[84,   300] loss: 6.593e-05
+[84,   400] loss: 6.523e-05
+[84,   500] loss: 6.768e-05
+[84,   600] loss: 6.333e-05
+[84,   700] loss: 6.344e-05
+Learning Rate: 0.00011422005196279396
+Validation
+[84,   100] loss: 5.045e-05
+[84,   200] loss: 5.119e-05
+[84,   300] loss: 5.211e-05
+[84,   400] loss: 5.122e-05
+Training loss: 0.000, train NMSE: -1.264e+01, training acc: 0.984
+Validation loss: 0.000, valid_NMSE: -1.337e+01, validation acc: 0.971
+--------------------------------------------------
+[INFO]: Epoch 85 of 100
+Training
+Check SFA Loss weight is working
+1
+[85,   100] loss: 6.456e-05
+[85,   200] loss: 6.453e-05
+[85,   300] loss: 6.529e-05
+[85,   400] loss: 6.352e-05
+[85,   500] loss: 6.329e-05
+[85,   600] loss: 7.215e-05
+[85,   700] loss: 6.392e-05
+Learning Rate: 0.00011257446259144495
+Validation
+[85,   100] loss: 4.967e-05
+[85,   200] loss: 4.966e-05
+[85,   300] loss: 4.885e-05
+[85,   400] loss: 4.971e-05
+Training loss: 0.000, train NMSE: -1.342e+01, training acc: 0.983
+Validation loss: 0.000, valid_NMSE: -1.383e+01, validation acc: 0.976
+
+Best validation loss: -13.826866149902344
+
+Saving best model for epoch: 85
+
+--------------------------------------------------
+[INFO]: Epoch 86 of 100
+Training
+Check SFA Loss weight is working
+1
+[86,   100] loss: 6.367e-05
+[86,   200] loss: 6.441e-05
+[86,   300] loss: 6.272e-05
+[86,   400] loss: 6.188e-05
+[86,   500] loss: 6.405e-05
+[86,   600] loss: 6.327e-05
+[86,   700] loss: 6.227e-05
+Learning Rate: 0.0001110162822968389
+Validation
+[86,   100] loss: 5.256e-05
+[86,   200] loss: 5.029e-05
+[86,   300] loss: 5.118e-05
+[86,   400] loss: 4.991e-05
+Training loss: 0.000, train NMSE: -1.314e+01, training acc: 0.985
+Validation loss: 0.000, valid_NMSE: -1.368e+01, validation acc: 0.979
+--------------------------------------------------
+[INFO]: Epoch 87 of 100
+Training
+Check SFA Loss weight is working
+1
+[87,   100] loss: 6.254e-05
+[87,   200] loss: 6.148e-05
+[87,   300] loss: 6.306e-05
+[87,   400] loss: 6.276e-05
+[87,   500] loss: 6.162e-05
+[87,   600] loss: 6.151e-05
+[87,   700] loss: 6.358e-05
+Learning Rate: 0.00010954915028125264
+Validation
+[87,   100] loss: 4.788e-05
+[87,   200] loss: 4.782e-05
+[87,   300] loss: 4.940e-05
+[87,   400] loss: 4.867e-05
+Training loss: 0.000, train NMSE: -1.231e+01, training acc: 0.986
+Validation loss: 0.000, valid_NMSE: -1.329e+01, validation acc: 0.979
+--------------------------------------------------
+[INFO]: Epoch 88 of 100
+Training
+Check SFA Loss weight is working
+1
+[88,   100] loss: 6.228e-05
+[88,   200] loss: 6.050e-05
+[88,   300] loss: 6.206e-05
+[88,   400] loss: 6.239e-05
+[88,   500] loss: 6.139e-05
+[88,   600] loss: 6.213e-05
+[88,   700] loss: 6.201e-05
+Learning Rate: 0.00010817649309948867
+Validation
+[88,   100] loss: 5.028e-05
+[88,   200] loss: 5.053e-05
+[88,   300] loss: 4.922e-05
+[88,   400] loss: 4.702e-05
+Training loss: 0.000, train NMSE: -1.394e+01, training acc: 0.986
+Validation loss: 0.000, valid_NMSE: -1.346e+01, validation acc: 0.981
+--------------------------------------------------
+[INFO]: Epoch 89 of 100
+Training
+Check SFA Loss weight is working
+1
+[89,   100] loss: 6.146e-05
+[89,   200] loss: 6.050e-05
+[89,   300] loss: 6.235e-05
+[89,   400] loss: 6.235e-05
+[89,   500] loss: 6.271e-05
+[89,   600] loss: 5.873e-05
+[89,   700] loss: 6.218e-05
+Learning Rate: 0.00010690151665599755
+Validation
+[89,   100] loss: 4.647e-05
+[89,   200] loss: 4.917e-05
+[89,   300] loss: 4.813e-05
+[89,   400] loss: 4.864e-05
+Training loss: 0.000, train NMSE: -1.310e+01, training acc: 0.986
+Validation loss: 0.000, valid_NMSE: -1.320e+01, validation acc: 0.981
+--------------------------------------------------
+[INFO]: Epoch 90 of 100
+Training
+Check SFA Loss weight is working
+1
+[90,   100] loss: 6.094e-05
+[90,   200] loss: 5.970e-05
+[90,   300] loss: 5.977e-05
+[90,   400] loss: 6.168e-05
+[90,   500] loss: 5.993e-05
+[90,   600] loss: 6.210e-05
+[90,   700] loss: 6.139e-05
+Learning Rate: 0.00010572719871733951
+Validation
+[90,   100] loss: 4.850e-05
+[90,   200] loss: 4.887e-05
+[90,   300] loss: 4.757e-05
+[90,   400] loss: 4.899e-05
+Training loss: 0.000, train NMSE: -1.349e+01, training acc: 0.986
+Validation loss: 0.000, valid_NMSE: -1.289e+01, validation acc: 0.980
+--------------------------------------------------
+[INFO]: Epoch 91 of 100
+Training
+Check SFA Loss weight is working
+1
+[91,   100] loss: 6.037e-05
+[91,   200] loss: 6.133e-05
+[91,   300] loss: 5.827e-05/home/hzl/anaconda3/envs/pt/lib/python3.7/site-packages/torchvision/io/image.py:11: UserWarning: Failed to load image Python extension: /home/hzl/anaconda3/envs/pt/lib/python3.7/site-packages/torchvision/image.so: undefined symbol: _ZNK3c1010TensorImpl36is_contiguous_nondefault_policy_implENS_12MemoryFormatE
+  warn(f"Failed to load image Python extension: {e}")
+
+[91,   400] loss: 5.881e-05
+[91,   500] loss: 6.090e-05
+[91,   600] loss: 5.983e-05
+[91,   700] loss: 6.072e-05
+Learning Rate: 0.00010465628195747273
+Validation
+[91,   100] loss: 4.815e-05
+[91,   200] loss: 4.965e-05
+[91,   300] loss: 4.938e-05
+[91,   400] loss: 4.854e-05
+Training loss: 0.000, train NMSE: -1.333e+01, training acc: 0.987
+Validation loss: 0.000, valid_NMSE: -1.319e+01, validation acc: 0.980
+--------------------------------------------------
+[INFO]: Epoch 92 of 100
+Training
+Check SFA Loss weight is working
+1
+[92,   100] loss: 5.953e-05
+[92,   200] loss: 6.040e-05
+[92,   300] loss: 5.788e-05
+[92,   400] loss: 6.041e-05
+[92,   500] loss: 6.093e-05
+[92,   600] loss: 5.824e-05
+[92,   700] loss: 5.924e-05
+Learning Rate: 0.00010369126755211118
+Validation
+[92,   100] loss: 4.823e-05
+[92,   200] loss: 4.672e-05
+[92,   300] loss: 4.806e-05
+[92,   400] loss: 4.756e-05
+Training loss: 0.000, train NMSE: -1.323e+01, training acc: 0.987
+Validation loss: 0.000, valid_NMSE: -1.333e+01, validation acc: 0.981
+--------------------------------------------------
+[INFO]: Epoch 93 of 100
+Training
+Check SFA Loss weight is working
+1
+[93,   100] loss: 5.931e-05
+[93,   200] loss: 5.994e-05
+[93,   300] loss: 5.997e-05
+[93,   400] loss: 5.803e-05
+[93,   500] loss: 5.854e-05
+[93,   600] loss: 5.686e-05
+[93,   700] loss: 6.197e-05
+Learning Rate: 0.00010283440933711286
+Validation
+[93,   100] loss: 4.928e-05
+[93,   200] loss: 4.881e-05
+[93,   300] loss: 4.980e-05
+[93,   400] loss: 4.782e-05
+Training loss: 0.000, train NMSE: -1.274e+01, training acc: 0.987
+Validation loss: 0.000, valid_NMSE: -1.350e+01, validation acc: 0.976
+--------------------------------------------------
+[INFO]: Epoch 94 of 100
+Training
+Check SFA Loss weight is working
+1
+[94,   100] loss: 5.744e-05
+[94,   200] loss: 5.850e-05
+[94,   300] loss: 5.896e-05
+[94,   400] loss: 5.683e-05
+[94,   500] loss: 5.695e-05
+[94,   600] loss: 5.803e-05
+[94,   700] loss: 5.804e-05
+Learning Rate: 0.0001020877085445417
+Validation
+[94,   100] loss: 4.770e-05
+[94,   200] loss: 4.848e-05
+[94,   300] loss: 4.770e-05
+[94,   400] loss: 4.783e-05
+Training loss: 0.000, train NMSE: -1.369e+01, training acc: 0.988
+Validation loss: 0.000, valid_NMSE: -1.334e+01, validation acc: 0.979
+--------------------------------------------------
+[INFO]: Epoch 95 of 100
+Training
+Check SFA Loss weight is working
+1
+[95,   100] loss: 5.943e-05
+[95,   200] loss: 5.761e-05
+[95,   300] loss: 5.802e-05
+[95,   400] loss: 5.755e-05
+[95,   500] loss: 5.793e-05
+[95,   600] loss: 5.827e-05
+[95,   700] loss: 5.758e-05
+Learning Rate: 0.0001014529091286974
+Validation
+[95,   100] loss: 4.909e-05
+[95,   200] loss: 4.784e-05
+[95,   300] loss: 4.724e-05
+[95,   400] loss: 4.722e-05
+Training loss: 0.000, train NMSE: -1.327e+01, training acc: 0.988
+Validation loss: 0.000, valid_NMSE: -1.338e+01, validation acc: 0.983
+--------------------------------------------------
+[INFO]: Epoch 96 of 100
+Training
+Check SFA Loss weight is working
+1
+[96,   100] loss: 5.638e-05
+[96,   200] loss: 5.738e-05
+[96,   300] loss: 5.841e-05
+[96,   400] loss: 5.915e-05
+[96,   500] loss: 5.662e-05
+[96,   600] loss: 5.616e-05
+[96,   700] loss: 5.482e-05
+Learning Rate: 0.00010093149369302933
+Validation
+[96,   100] loss: 4.661e-05
+[96,   200] loss: 4.514e-05
+[96,   300] loss: 4.752e-05
+[96,   400] loss: 4.590e-05
+Training loss: 0.000, train NMSE: -1.334e+01, training acc: 0.989
+Validation loss: 0.000, valid_NMSE: -1.361e+01, validation acc: 0.981
+--------------------------------------------------
+[INFO]: Epoch 97 of 100
+Training
+Check SFA Loss weight is working
+1
+[97,   100] loss: 5.759e-05
+[97,   200] loss: 5.726e-05
+[97,   300] loss: 5.652e-05
+[97,   400] loss: 5.743e-05
+[97,   500] loss: 5.542e-05
+[97,   600] loss: 5.636e-05
+[97,   700] loss: 5.646e-05
+Learning Rate: 0.00010052468002744745
+Validation
+[97,   100] loss: 4.722e-05
+[97,   200] loss: 4.696e-05
+[97,   300] loss: 4.511e-05
+[97,   400] loss: 4.596e-05
+Training loss: 0.000, train NMSE: -1.340e+01, training acc: 0.989
+Validation loss: 0.000, valid_NMSE: -1.294e+01, validation acc: 0.981
+--------------------------------------------------
+[INFO]: Epoch 98 of 100
+Training
+Check SFA Loss weight is working
+1
+[98,   100] loss: 5.581e-05
+[98,   200] loss: 5.583e-05
+[98,   300] loss: 5.602e-05
+[98,   400] loss: 5.575e-05
+[98,   500] loss: 5.626e-05
+[98,   600] loss: 5.739e-05
+[98,   700] loss: 5.699e-05
+Learning Rate: 0.00010023341826411757
+Validation
+[98,   100] loss: 4.756e-05
+[98,   200] loss: 4.771e-05
+[98,   300] loss: 4.719e-05
+[98,   400] loss: 4.500e-05
+Training loss: 0.000, train NMSE: -1.321e+01, training acc: 0.989
+Validation loss: 0.000, valid_NMSE: -1.283e+01, validation acc: 0.983
+--------------------------------------------------
+[INFO]: Epoch 99 of 100
+Training
+Check SFA Loss weight is working
+1
+[99,   100] loss: 5.387e-05
+[99,   200] loss: 5.486e-05
+[99,   300] loss: 5.719e-05
+[99,   400] loss: 5.717e-05
+[99,   500] loss: 5.728e-05
+[99,   600] loss: 5.681e-05
+[99,   700] loss: 5.469e-05
+Learning Rate: 0.00010005838865838368
+Validation
+[99,   100] loss: 4.741e-05
+[99,   200] loss: 4.621e-05
+[99,   300] loss: 4.530e-05
+[99,   400] loss: 4.856e-05
+Training loss: 0.000, train NMSE: -1.343e+01, training acc: 0.989
+Validation loss: 0.000, valid_NMSE: -1.365e+01, validation acc: 0.981
+--------------------------------------------------
+[INFO]: Epoch 100 of 100
+Training
+Check SFA Loss weight is working
+1
+[100,   100] loss: 5.528e-05
+[100,   200] loss: 5.626e-05
+[100,   300] loss: 5.638e-05
+[100,   400] loss: 5.247e-05
+[100,   500] loss: 5.578e-05
+[100,   600] loss: 5.674e-05
+[100,   700] loss: 5.483e-05
+Learning Rate: 0.0001
+Validation
+[100,   100] loss: 4.515e-05
+[100,   200] loss: 4.648e-05
+[100,   300] loss: 4.617e-05
+[100,   400] loss: 4.737e-05
+Training loss: 0.000, train NMSE: -1.388e+01, training acc: 0.990
+Validation loss: 0.000, valid_NMSE: -1.359e+01, validation acc: 0.984
+--------------------------------------------------
+Saving final model
+TRAINING COMPLETE
