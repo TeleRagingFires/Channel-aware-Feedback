@@ -1,0 +1,2319 @@
+1.13.1+cu117
+outEnergy
+Dadicated Mode outEnergy
+Dedicated Mode outEnergy
+trainset len 112000 valset len 48000
+New_trainset len 40000 valset len 48000
+825,049 training parameters.
+
+825,049 training parameters.
+
+[INFO]: Epoch 1 of 200
+Training
+[1,   100] loss: 5.719e-04
+[1,   200] loss: 5.267e-04
+Validation
+[1,   100] loss: 7.584e-04
+[1,   200] loss: 7.584e-04
+Training loss: 0.001, train NMSE: -3.390e-01
+Validation loss: 0.001, valid_NMSE: -2.729e-01
+
+Best validation loss: -0.2729131877422333
+
+Saving best model for epoch: 1
+
+--------------------------------------------------
+[INFO]: Epoch 2 of 200
+Training
+[2,   100] loss: 5.039e-04
+[2,   200] loss: 5.036e-04
+Validation
+[2,   100] loss: 7.450e-04
+[2,   200] loss: 7.450e-04
+Training loss: 0.001, train NMSE: -5.521e-01
+Validation loss: 0.001, valid_NMSE: -3.527e-01
+
+Best validation loss: -0.3527183532714844
+
+Saving best model for epoch: 2
+
+--------------------------------------------------
+[INFO]: Epoch 3 of 200
+Training
+[3,   100] loss: 4.942e-04
+[3,   200] loss: 4.907e-04
+Validation
+[3,   100] loss: 7.367e-04
+[3,   200] loss: 7.367e-04
+Training loss: 0.000, train NMSE: -6.951e-01
+Validation loss: 0.001, valid_NMSE: -3.971e-01
+
+Best validation loss: -0.39708569645881653
+
+Saving best model for epoch: 3
+
+--------------------------------------------------
+[INFO]: Epoch 4 of 200
+Training
+[4,   100] loss: 4.870e-04
+[4,   200] loss: 4.804e-04
+Validation
+[4,   100] loss: 7.301e-04
+[4,   200] loss: 7.301e-04
+Training loss: 0.000, train NMSE: -6.100e-01
+Validation loss: 0.001, valid_NMSE: -4.401e-01
+
+Best validation loss: -0.440110981464386
+
+Saving best model for epoch: 4
+
+--------------------------------------------------
+[INFO]: Epoch 5 of 200
+Training
+[5,   100] loss: 4.755e-04
+[5,   200] loss: 4.753e-04
+Validation
+[5,   100] loss: 7.239e-04
+[5,   200] loss: 7.239e-04
+Training loss: 0.000, train NMSE: -7.820e-01
+Validation loss: 0.001, valid_NMSE: -5.036e-01
+
+Best validation loss: -0.5035787224769592
+
+Saving best model for epoch: 5
+
+--------------------------------------------------
+[INFO]: Epoch 6 of 200
+Training
+[6,   100] loss: 4.694e-04
+[6,   200] loss: 4.648e-04
+Validation
+[6,   100] loss: 7.161e-04
+[6,   200] loss: 7.161e-04
+Training loss: 0.000, train NMSE: -8.258e-01
+Validation loss: 0.001, valid_NMSE: -5.618e-01
+
+Best validation loss: -0.5618225336074829
+
+Saving best model for epoch: 6
+
+--------------------------------------------------
+[INFO]: Epoch 7 of 200
+Training
+[7,   100] loss: 4.604e-04
+[7,   200] loss: 4.560e-04
+Validation
+[7,   100] loss: 7.067e-04
+[7,   200] loss: 7.067e-04
+Training loss: 0.000, train NMSE: -8.890e-01
+Validation loss: 0.001, valid_NMSE: -6.383e-01
+
+Best validation loss: -0.6383174061775208
+
+Saving best model for epoch: 7
+
+--------------------------------------------------
+[INFO]: Epoch 8 of 200
+Training
+[8,   100] loss: 4.490e-04
+[8,   200] loss: 4.478e-04
+Validation
+[8,   100] loss: 6.987e-04
+[8,   200] loss: 6.987e-04
+Training loss: 0.000, train NMSE: -1.135e+00
+Validation loss: 0.001, valid_NMSE: -7.215e-01
+
+Best validation loss: -0.7214963436126709
+
+Saving best model for epoch: 8
+
+--------------------------------------------------
+[INFO]: Epoch 9 of 200
+Training
+[9,   100] loss: 4.443e-04
+[9,   200] loss: 4.303e-04
+Validation
+[9,   100] loss: 6.861e-04
+[9,   200] loss: 6.861e-04
+Training loss: 0.000, train NMSE: -1.092e+00
+Validation loss: 0.001, valid_NMSE: -8.174e-01
+
+Best validation loss: -0.8174018859863281
+
+Saving best model for epoch: 9
+
+--------------------------------------------------
+[INFO]: Epoch 10 of 200
+Training
+[10,   100] loss: 4.309e-04
+[10,   200] loss: 4.220e-04
+Validation
+[10,   100] loss: 6.745e-04
+[10,   200] loss: 6.745e-04
+Training loss: 0.000, train NMSE: -1.304e+00
+Validation loss: 0.001, valid_NMSE: -9.167e-01
+
+Best validation loss: -0.9167080521583557
+
+Saving best model for epoch: 10
+
+--------------------------------------------------
+[INFO]: Epoch 11 of 200
+Training
+[11,   100] loss: 4.202e-04
+[11,   200] loss: 4.127e-04
+Validation
+[11,   100] loss: 6.655e-04
+[11,   200] loss: 6.655e-04
+Training loss: 0.000, train NMSE: -1.433e+00
+Validation loss: 0.001, valid_NMSE: -9.916e-01
+
+Best validation loss: -0.991624116897583
+
+Saving best model for epoch: 11
+
+--------------------------------------------------
+[INFO]: Epoch 12 of 200
+Training
+[12,   100] loss: 4.082e-04
+[12,   200] loss: 4.069e-04
+Validation
+[12,   100] loss: 6.621e-04
+[12,   200] loss: 6.621e-04
+Training loss: 0.000, train NMSE: -1.362e+00
+Validation loss: 0.001, valid_NMSE: -1.032e+00
+
+Best validation loss: -1.0324397087097168
+
+Saving best model for epoch: 12
+
+--------------------------------------------------
+[INFO]: Epoch 13 of 200
+Training
+[13,   100] loss: 3.996e-04
+[13,   200] loss: 4.000e-04
+Validation
+[13,   100] loss: 6.514e-04
+[13,   200] loss: 6.514e-04
+Training loss: 0.000, train NMSE: -1.631e+00
+Validation loss: 0.001, valid_NMSE: -1.130e+00
+
+Best validation loss: -1.1299364566802979
+
+Saving best model for epoch: 13
+
+--------------------------------------------------
+[INFO]: Epoch 14 of 200
+Training
+[14,   100] loss: 3.921e-04
+[14,   200] loss: 3.931e-04
+Validation
+[14,   100] loss: 6.451e-04
+[14,   200] loss: 6.451e-04
+Training loss: 0.000, train NMSE: -1.475e+00
+Validation loss: 0.001, valid_NMSE: -1.184e+00
+
+Best validation loss: -1.1842284202575684
+
+Saving best model for epoch: 14
+
+--------------------------------------------------
+[INFO]: Epoch 15 of 200
+Training
+[15,   100] loss: 3.858e-04
+[15,   200] loss: 3.867e-04
+Validation
+[15,   100] loss: 6.433e-04
+[15,   200] loss: 6.433e-04
+Training loss: 0.000, train NMSE: -1.713e+00
+Validation loss: 0.001, valid_NMSE: -1.211e+00
+
+Best validation loss: -1.210951566696167
+
+Saving best model for epoch: 15
+
+--------------------------------------------------
+[INFO]: Epoch 16 of 200
+Training
+[16,   100] loss: 3.793e-04
+[16,   200] loss: 3.811e-04
+Validation
+[16,   100] loss: 6.349e-04
+[16,   200] loss: 6.349e-04
+Training loss: 0.000, train NMSE: -1.935e+00
+Validation loss: 0.001, valid_NMSE: -1.288e+00
+
+Best validation loss: -1.2884602546691895
+
+Saving best model for epoch: 16
+
+--------------------------------------------------
+[INFO]: Epoch 17 of 200
+Training
+[17,   100] loss: 3.756e-04
+[17,   200] loss: 3.732e-04
+Validation
+[17,   100] loss: 6.274e-04
+[17,   200] loss: 6.274e-04
+Training loss: 0.000, train NMSE: -1.963e+00
+Validation loss: 0.001, valid_NMSE: -1.358e+00
+
+Best validation loss: -1.358086347579956
+
+Saving best model for epoch: 17
+
+--------------------------------------------------
+[INFO]: Epoch 18 of 200
+Training
+[18,   100] loss: 3.680e-04
+[18,   200] loss: 3.700e-04
+Validation
+[18,   100] loss: 6.225e-04
+[18,   200] loss: 6.225e-04
+Training loss: 0.000, train NMSE: -1.915e+00
+Validation loss: 0.001, valid_NMSE: -1.395e+00
+
+Best validation loss: -1.3953195810317993
+
+Saving best model for epoch: 18
+
+--------------------------------------------------
+[INFO]: Epoch 19 of 200
+Training
+[19,   100] loss: 3.634e-04
+[19,   200] loss: 3.645e-04
+Validation
+[19,   100] loss: 6.230e-04
+[19,   200] loss: 6.230e-04
+Training loss: 0.000, train NMSE: -2.300e+00
+Validation loss: 0.001, valid_NMSE: -1.417e+00
+
+Best validation loss: -1.41715669631958
+
+Saving best model for epoch: 19
+
+--------------------------------------------------
+[INFO]: Epoch 20 of 200
+Training
+[20,   100] loss: 3.592e-04
+[20,   200] loss: 3.591e-04
+Validation
+[20,   100] loss: 6.161e-04
+[20,   200] loss: 6.161e-04
+Training loss: 0.000, train NMSE: -1.885e+00
+Validation loss: 0.001, valid_NMSE: -1.479e+00
+
+Best validation loss: -1.479122519493103
+
+Saving best model for epoch: 20
+
+--------------------------------------------------
+[INFO]: Epoch 21 of 200
+Training
+[21,   100] loss: 3.545e-04
+[21,   200] loss: 3.550e-04
+Validation
+[21,   100] loss: 6.149e-04
+[21,   200] loss: 6.149e-04
+Training loss: 0.000, train NMSE: -2.346e+00
+Validation loss: 0.001, valid_NMSE: -1.466e+00
+--------------------------------------------------
+[INFO]: Epoch 22 of 200
+Training
+[22,   100] loss: 3.499e-04
+[22,   200] loss: 3.514e-04
+Validation
+[22,   100] loss: 6.109e-04
+[22,   200] loss: 6.109e-04
+Training loss: 0.000, train NMSE: -2.039e+00
+Validation loss: 0.001, valid_NMSE: -1.518e+00
+
+Best validation loss: -1.5179643630981445
+
+Saving best model for epoch: 22
+
+--------------------------------------------------
+[INFO]: Epoch 23 of 200
+Training
+[23,   100] loss: 3.463e-04
+[23,   200] loss: 3.461e-04
+Validation
+[23,   100] loss: 6.047e-04
+[23,   200] loss: 6.047e-04
+Training loss: 0.000, train NMSE: -2.069e+00
+Validation loss: 0.001, valid_NMSE: -1.575e+00
+
+Best validation loss: -1.5752325057983398
+
+Saving best model for epoch: 23
+
+--------------------------------------------------
+[INFO]: Epoch 24 of 200
+Training
+[24,   100] loss: 3.410e-04
+[24,   200] loss: 3.444e-04
+Validation
+[24,   100] loss: 6.011e-04
+[24,   200] loss: 6.011e-04
+Training loss: 0.000, train NMSE: -2.366e+00
+Validation loss: 0.001, valid_NMSE: -1.618e+00
+
+Best validation loss: -1.6176996231079102
+
+Saving best model for epoch: 24
+
+--------------------------------------------------
+[INFO]: Epoch 25 of 200
+Training
+[25,   100] loss: 3.397e-04
+[25,   200] loss: 3.380e-04
+Validation
+[25,   100] loss: 5.995e-04
+[25,   200] loss: 5.995e-04
+Training loss: 0.000, train NMSE: -2.346e+00
+Validation loss: 0.001, valid_NMSE: -1.628e+00
+
+Best validation loss: -1.6279659271240234
+
+Saving best model for epoch: 25
+
+--------------------------------------------------
+[INFO]: Epoch 26 of 200
+Training
+[26,   100] loss: 3.356e-04
+[26,   200] loss: 3.358e-04
+Validation
+[26,   100] loss: 5.940e-04
+[26,   200] loss: 5.940e-04
+Training loss: 0.000, train NMSE: -2.257e+00
+Validation loss: 0.001, valid_NMSE: -1.685e+00
+
+Best validation loss: -1.6850910186767578
+
+Saving best model for epoch: 26
+
+--------------------------------------------------
+[INFO]: Epoch 27 of 200
+Training
+[27,   100] loss: 3.314e-04
+[27,   200] loss: 3.339e-04
+Validation
+[27,   100] loss: 5.963e-04
+[27,   200] loss: 5.963e-04
+Training loss: 0.000, train NMSE: -2.156e+00
+Validation loss: 0.001, valid_NMSE: -1.666e+00
+--------------------------------------------------
+[INFO]: Epoch 28 of 200
+Training
+[28,   100] loss: 3.280e-04
+[28,   200] loss: 3.307e-04
+Validation
+[28,   100] loss: 5.917e-04
+[28,   200] loss: 5.917e-04
+Training loss: 0.000, train NMSE: -2.436e+00
+Validation loss: 0.001, valid_NMSE: -1.703e+00
+
+Best validation loss: -1.7034776210784912
+
+Saving best model for epoch: 28
+
+--------------------------------------------------
+[INFO]: Epoch 29 of 200
+Training
+[29,   100] loss: 3.305e-04
+[29,   200] loss: 3.232e-04
+Validation
+[29,   100] loss: 5.911e-04
+[29,   200] loss: 5.911e-04
+Training loss: 0.000, train NMSE: -2.525e+00
+Validation loss: 0.001, valid_NMSE: -1.720e+00
+
+Best validation loss: -1.7204322814941406
+
+Saving best model for epoch: 29
+
+--------------------------------------------------
+[INFO]: Epoch 30 of 200
+Training
+[30,   100] loss: 3.225e-04
+[30,   200] loss: 3.264e-04
+Validation
+[30,   100] loss: 5.877e-04
+[30,   200] loss: 5.877e-04
+Training loss: 0.000, train NMSE: -2.369e+00
+Validation loss: 0.001, valid_NMSE: -1.749e+00
+
+Best validation loss: -1.7492046356201172
+
+Saving best model for epoch: 30
+
+--------------------------------------------------
+[INFO]: Epoch 31 of 200
+Training
+[31,   100] loss: 3.237e-04
+[31,   200] loss: 3.197e-04
+Validation
+[31,   100] loss: 5.878e-04
+[31,   200] loss: 5.878e-04
+Training loss: 0.000, train NMSE: -2.665e+00
+Validation loss: 0.001, valid_NMSE: -1.740e+00
+--------------------------------------------------
+[INFO]: Epoch 32 of 200
+Training
+[32,   100] loss: 3.205e-04
+[32,   200] loss: 3.185e-04
+Validation
+[32,   100] loss: 5.846e-04
+[32,   200] loss: 5.846e-04
+Training loss: 0.000, train NMSE: -2.604e+00
+Validation loss: 0.001, valid_NMSE: -1.788e+00
+
+Best validation loss: -1.78817617893219
+
+Saving best model for epoch: 32
+
+--------------------------------------------------
+[INFO]: Epoch 33 of 200
+Training
+[33,   100] loss: 3.170e-04
+[33,   200] loss: 3.169e-04
+Validation
+[33,   100] loss: 5.850e-04
+[33,   200] loss: 5.850e-04
+Training loss: 0.000, train NMSE: -2.798e+00
+Validation loss: 0.001, valid_NMSE: -1.792e+00
+
+Best validation loss: -1.7920470237731934
+
+Saving best model for epoch: 33
+
+--------------------------------------------------
+[INFO]: Epoch 34 of 200
+Training
+[34,   100] loss: 3.159e-04
+[34,   200] loss: 3.137e-04
+Validation
+[34,   100] loss: 5.813e-04
+[34,   200] loss: 5.813e-04
+Training loss: 0.000, train NMSE: -2.563e+00
+Validation loss: 0.001, valid_NMSE: -1.798e+00
+
+Best validation loss: -1.7976694107055664
+
+Saving best model for epoch: 34
+
+--------------------------------------------------
+[INFO]: Epoch 35 of 200
+Training
+[35,   100] loss: 3.110e-04
+[35,   200] loss: 3.144e-04
+Validation
+[35,   100] loss: 5.809e-04
+[35,   200] loss: 5.809e-04
+Training loss: 0.000, train NMSE: -2.878e+00
+Validation loss: 0.001, valid_NMSE: -1.831e+00
+
+Best validation loss: -1.830797791481018
+
+Saving best model for epoch: 35
+
+--------------------------------------------------
+[INFO]: Epoch 36 of 200
+Training
+[36,   100] loss: 3.086e-04
+[36,   200] loss: 3.128e-04
+Validation
+[36,   100] loss: 5.807e-04
+[36,   200] loss: 5.807e-04
+Training loss: 0.000, train NMSE: -2.760e+00
+Validation loss: 0.001, valid_NMSE: -1.816e+00
+--------------------------------------------------
+[INFO]: Epoch 37 of 200
+Training
+[37,   100] loss: 3.082e-04
+[37,   200] loss: 3.092e-04
+Validation
+[37,   100] loss: 5.803e-04
+[37,   200] loss: 5.803e-04
+Training loss: 0.000, train NMSE: -2.704e+00
+Validation loss: 0.001, valid_NMSE: -1.815e+00
+--------------------------------------------------
+[INFO]: Epoch 38 of 200
+Training
+[38,   100] loss: 3.060e-04
+[38,   200] loss: 3.070e-04
+Validation
+[38,   100] loss: 5.766e-04
+[38,   200] loss: 5.766e-04
+Training loss: 0.000, train NMSE: -2.723e+00
+Validation loss: 0.001, valid_NMSE: -1.863e+00
+
+Best validation loss: -1.8632616996765137
+
+Saving best model for epoch: 38
+
+--------------------------------------------------
+[INFO]: Epoch 39 of 200
+Training
+[39,   100] loss: 3.069e-04
+[39,   200] loss: 3.033e-04
+Validation
+[39,   100] loss: 5.738e-04
+[39,   200] loss: 5.738e-04
+Training loss: 0.000, train NMSE: -2.882e+00
+Validation loss: 0.001, valid_NMSE: -1.889e+00
+
+Best validation loss: -1.8893847465515137
+
+Saving best model for epoch: 39
+
+--------------------------------------------------
+[INFO]: Epoch 40 of 200
+Training
+[40,   100] loss: 3.043e-04
+[40,   200] loss: 3.018e-04
+Validation
+[40,   100] loss: 5.740e-04
+[40,   200] loss: 5.740e-04
+Training loss: 0.000, train NMSE: -2.747e+00
+Validation loss: 0.001, valid_NMSE: -1.893e+00
+
+Best validation loss: -1.8927791118621826
+
+Saving best model for epoch: 40
+
+--------------------------------------------------
+[INFO]: Epoch 41 of 200
+Training
+[41,   100] loss: 3.026e-04
+[41,   200] loss: 2.996e-04
+Validation
+[41,   100] loss: 5.733e-04
+[41,   200] loss: 5.733e-04
+Training loss: 0.000, train NMSE: -2.736e+00
+Validation loss: 0.001, valid_NMSE: -1.917e+00
+
+Best validation loss: -1.917409896850586
+
+Saving best model for epoch: 41
+
+--------------------------------------------------
+[INFO]: Epoch 42 of 200
+Training
+[42,   100] loss: 3.012e-04
+[42,   200] loss: 2.979e-04
+Validation
+[42,   100] loss: 5.714e-04
+[42,   200] loss: 5.714e-04
+Training loss: 0.000, train NMSE: -3.116e+00
+Validation loss: 0.001, valid_NMSE: -1.917e+00
+--------------------------------------------------
+[INFO]: Epoch 43 of 200
+Training
+[43,   100] loss: 2.991e-04
+[43,   200] loss: 2.973e-04
+Validation
+[43,   100] loss: 5.722e-04
+[43,   200] loss: 5.722e-04
+Training loss: 0.000, train NMSE: -2.816e+00
+Validation loss: 0.001, valid_NMSE: -1.922e+00
+
+Best validation loss: -1.921685814857483
+
+Saving best model for epoch: 43
+
+--------------------------------------------------
+[INFO]: Epoch 44 of 200
+Training
+[44,   100] loss: 2.958e-04
+[44,   200] loss: 2.979e-04
+Validation
+[44,   100] loss: 5.684e-04
+[44,   200] loss: 5.684e-04
+Training loss: 0.000, train NMSE: -3.072e+00
+Validation loss: 0.001, valid_NMSE: -1.949e+00
+
+Best validation loss: -1.949446201324463
+
+Saving best model for epoch: 44
+
+--------------------------------------------------
+[INFO]: Epoch 45 of 200
+Training
+[45,   100] loss: 2.945e-04
+[45,   200] loss: 2.949e-04
+Validation
+[45,   100] loss: 5.698e-04
+[45,   200] loss: 5.698e-04
+Training loss: 0.000, train NMSE: -2.915e+00
+Validation loss: 0.001, valid_NMSE: -1.954e+00
+
+Best validation loss: -1.9538289308547974
+
+Saving best model for epoch: 45
+
+--------------------------------------------------
+[INFO]: Epoch 46 of 200
+Training
+[46,   100] loss: 2.918e-04
+[46,   200] loss: 2.945e-04
+Validation
+[46,   100] loss: 5.733e-04
+[46,   200] loss: 5.733e-04
+Training loss: 0.000, train NMSE: -2.938e+00
+Validation loss: 0.001, valid_NMSE: -1.932e+00
+--------------------------------------------------
+[INFO]: Epoch 47 of 200
+Training
+[47,   100] loss: 2.919e-04
+[47,   200] loss: 2.920e-04
+Validation
+[47,   100] loss: 5.685e-04
+[47,   200] loss: 5.685e-04
+Training loss: 0.000, train NMSE: -3.084e+00
+Validation loss: 0.001, valid_NMSE: -1.984e+00
+
+Best validation loss: -1.9836244583129883
+
+Saving best model for epoch: 47
+
+--------------------------------------------------
+[INFO]: Epoch 48 of 200
+Training
+[48,   100] loss: 2.894e-04
+[48,   200] loss: 2.906e-04
+Validation
+[48,   100] loss: 5.738e-04
+[48,   200] loss: 5.738e-04
+Training loss: 0.000, train NMSE: -2.730e+00
+Validation loss: 0.001, valid_NMSE: -1.924e+00
+--------------------------------------------------
+[INFO]: Epoch 49 of 200
+Training
+[49,   100] loss: 2.868e-04
+[49,   200] loss: 2.908e-04
+Validation
+[49,   100] loss: 5.676e-04
+[49,   200] loss: 5.676e-04
+Training loss: 0.000, train NMSE: -2.788e+00
+Validation loss: 0.001, valid_NMSE: -1.994e+00
+
+Best validation loss: -1.9943315982818604
+
+Saving best model for epoch: 49
+
+--------------------------------------------------
+[INFO]: Epoch 50 of 200
+Training
+[50,   100] loss: 2.882e-04
+[50,   200] loss: 2.874e-04
+Validation
+[50,   100] loss: 5.664e-04
+[50,   200] loss: 5.664e-04
+Training loss: 0.000, train NMSE: -3.071e+00
+Validation loss: 0.001, valid_NMSE: -1.988e+00
+--------------------------------------------------
+[INFO]: Epoch 51 of 200
+Training
+[51,   100] loss: 2.847e-04
+[51,   200] loss: 2.871e-04
+Validation
+[51,   100] loss: 5.697e-04
+[51,   200] loss: 5.697e-04
+Training loss: 0.000, train NMSE: -2.609e+00
+Validation loss: 0.001, valid_NMSE: -1.966e+00
+--------------------------------------------------
+[INFO]: Epoch 52 of 200
+Training
+[52,   100] loss: 2.860e-04
+[52,   200] loss: 2.845e-04
+Validation
+[52,   100] loss: 5.686e-04
+[52,   200] loss: 5.686e-04
+Training loss: 0.000, train NMSE: -3.031e+00
+Validation loss: 0.001, valid_NMSE: -1.995e+00
+
+Best validation loss: -1.9947431087493896
+
+Saving best model for epoch: 52
+
+--------------------------------------------------
+[INFO]: Epoch 53 of 200
+Training
+[53,   100] loss: 2.824e-04
+[53,   200] loss: 2.846e-04
+Validation
+[53,   100] loss: 5.651e-04
+[53,   200] loss: 5.651e-04
+Training loss: 0.000, train NMSE: -3.055e+00
+Validation loss: 0.001, valid_NMSE: -2.011e+00
+
+Best validation loss: -2.011286735534668
+
+Saving best model for epoch: 53
+
+--------------------------------------------------
+[INFO]: Epoch 54 of 200
+Training
+[54,   100] loss: 2.823e-04
+[54,   200] loss: 2.826e-04
+Validation
+[54,   100] loss: 5.634e-04
+[54,   200] loss: 5.634e-04
+Training loss: 0.000, train NMSE: -3.216e+00
+Validation loss: 0.001, valid_NMSE: -2.008e+00
+--------------------------------------------------
+[INFO]: Epoch 55 of 200
+Training
+[55,   100] loss: 2.808e-04
+[55,   200] loss: 2.821e-04
+Validation
+[55,   100] loss: 5.638e-04
+[55,   200] loss: 5.638e-04
+Training loss: 0.000, train NMSE: -3.208e+00
+Validation loss: 0.001, valid_NMSE: -2.011e+00
+
+Best validation loss: -2.011444568634033
+
+Saving best model for epoch: 55
+
+--------------------------------------------------
+[INFO]: Epoch 56 of 200
+Training
+[56,   100] loss: 2.801e-04
+[56,   200] loss: 2.809e-04
+Validation
+[56,   100] loss: 5.668e-04
+[56,   200] loss: 5.668e-04
+Training loss: 0.000, train NMSE: -2.989e+00
+Validation loss: 0.001, valid_NMSE: -2.015e+00
+
+Best validation loss: -2.0146291255950928
+
+Saving best model for epoch: 56
+
+--------------------------------------------------
+[INFO]: Epoch 57 of 200
+Training
+[57,   100] loss: 2.789e-04
+[57,   200] loss: 2.793e-04
+Validation
+[57,   100] loss: 5.653e-04
+[57,   200] loss: 5.653e-04
+Training loss: 0.000, train NMSE: -3.004e+00
+Validation loss: 0.001, valid_NMSE: -2.022e+00
+
+Best validation loss: -2.021820068359375
+
+Saving best model for epoch: 57
+
+--------------------------------------------------
+[INFO]: Epoch 58 of 200
+Training
+[58,   100] loss: 2.772e-04
+[58,   200] loss: 2.788e-04
+Validation
+[58,   100] loss: 5.668e-04
+[58,   200] loss: 5.668e-04
+Training loss: 0.000, train NMSE: -2.870e+00
+Validation loss: 0.001, valid_NMSE: -2.012e+00
+--------------------------------------------------
+[INFO]: Epoch 59 of 200
+Training
+[59,   100] loss: 2.761e-04
+[59,   200] loss: 2.775e-04
+Validation
+[59,   100] loss: 5.636e-04
+[59,   200] loss: 5.636e-04
+Training loss: 0.000, train NMSE: -3.207e+00
+Validation loss: 0.001, valid_NMSE: -2.027e+00
+
+Best validation loss: -2.027235984802246
+
+Saving best model for epoch: 59
+
+--------------------------------------------------
+[INFO]: Epoch 60 of 200
+Training
+[60,   100] loss: 2.767e-04
+[60,   200] loss: 2.747e-04
+Validation
+[60,   100] loss: 5.634e-04
+[60,   200] loss: 5.634e-04
+Training loss: 0.000, train NMSE: -3.192e+00
+Validation loss: 0.001, valid_NMSE: -2.034e+00
+
+Best validation loss: -2.0341620445251465
+
+Saving best model for epoch: 60
+
+--------------------------------------------------
+[INFO]: Epoch 61 of 200
+Training
+[61,   100] loss: 2.770e-04
+[61,   200] loss: 2.733e-04
+Validation
+[61,   100] loss: 5.655e-04
+[61,   200] loss: 5.655e-04
+Training loss: 0.000, train NMSE: -3.190e+00
+Validation loss: 0.001, valid_NMSE: -2.040e+00
+
+Best validation loss: -2.039551019668579
+
+Saving best model for epoch: 61
+
+--------------------------------------------------
+[INFO]: Epoch 62 of 200
+Training
+[62,   100] loss: 2.730e-04
+[62,   200] loss: 2.742e-04
+Validation
+[62,   100] loss: 5.618e-04
+[62,   200] loss: 5.618e-04
+Training loss: 0.000, train NMSE: -3.134e+00
+Validation loss: 0.001, valid_NMSE: -2.046e+00
+
+Best validation loss: -2.0461537837982178
+
+Saving best model for epoch: 62
+
+--------------------------------------------------
+[INFO]: Epoch 63 of 200
+Training
+[63,   100] loss: 2.716e-04
+[63,   200] loss: 2.731e-04
+Validation
+[63,   100] loss: 5.642e-04
+[63,   200] loss: 5.642e-04
+Training loss: 0.000, train NMSE: -3.051e+00
+Validation loss: 0.001, valid_NMSE: -2.053e+00
+
+Best validation loss: -2.053115129470825
+
+Saving best model for epoch: 63
+
+--------------------------------------------------
+[INFO]: Epoch 64 of 200
+Training
+[64,   100] loss: 2.721e-04
+[64,   200] loss: 2.706e-04
+Validation
+[64,   100] loss: 5.610e-04
+[64,   200] loss: 5.610e-04
+Training loss: 0.000, train NMSE: -3.254e+00
+Validation loss: 0.001, valid_NMSE: -2.045e+00
+--------------------------------------------------
+[INFO]: Epoch 65 of 200
+Training
+[65,   100] loss: 2.692e-04
+[65,   200] loss: 2.717e-04
+Validation
+[65,   100] loss: 5.624e-04
+[65,   200] loss: 5.624e-04
+Training loss: 0.000, train NMSE: -3.274e+00
+Validation loss: 0.001, valid_NMSE: -2.039e+00
+--------------------------------------------------
+[INFO]: Epoch 66 of 200
+Training
+[66,   100] loss: 2.681e-04
+[66,   200] loss: 2.716e-04
+Validation
+[66,   100] loss: 5.663e-04
+[66,   200] loss: 5.663e-04
+Training loss: 0.000, train NMSE: -3.404e+00
+Validation loss: 0.001, valid_NMSE: -2.041e+00
+--------------------------------------------------
+[INFO]: Epoch 67 of 200
+Training
+[67,   100] loss: 2.691e-04
+[67,   200] loss: 2.682e-04
+Validation
+[67,   100] loss: 5.620e-04
+[67,   200] loss: 5.620e-04
+Training loss: 0.000, train NMSE: -3.213e+00
+Validation loss: 0.001, valid_NMSE: -2.048e+00
+--------------------------------------------------
+[INFO]: Epoch 68 of 200
+Training
+[68,   100] loss: 2.676e-04
+[68,   200] loss: 2.678e-04
+Validation
+[68,   100] loss: 5.634e-04
+[68,   200] loss: 5.634e-04
+Training loss: 0.000, train NMSE: -3.330e+00
+Validation loss: 0.001, valid_NMSE: -2.059e+00
+
+Best validation loss: -2.058701753616333
+
+Saving best model for epoch: 68
+
+--------------------------------------------------
+[INFO]: Epoch 69 of 200
+Training
+[69,   100] loss: 2.665e-04
+[69,   200] loss: 2.668e-04
+Validation
+[69,   100] loss: 5.625e-04
+[69,   200] loss: 5.625e-04
+Training loss: 0.000, train NMSE: -3.237e+00
+Validation loss: 0.001, valid_NMSE: -2.054e+00
+--------------------------------------------------
+[INFO]: Epoch 70 of 200
+Training
+[70,   100] loss: 2.655e-04
+[70,   200] loss: 2.677e-04
+Validation
+[70,   100] loss: 5.602e-04
+[70,   200] loss: 5.602e-04
+Training loss: 0.000, train NMSE: -3.412e+00
+Validation loss: 0.001, valid_NMSE: -2.085e+00
+
+Best validation loss: -2.085334300994873
+
+Saving best model for epoch: 70
+
+--------------------------------------------------
+[INFO]: Epoch 71 of 200
+Training
+[71,   100] loss: 2.657e-04
+[71,   200] loss: 2.646e-04
+Validation
+[71,   100] loss: 5.587e-04
+[71,   200] loss: 5.587e-04
+Training loss: 0.000, train NMSE: -3.242e+00
+Validation loss: 0.001, valid_NMSE: -2.084e+00
+--------------------------------------------------
+[INFO]: Epoch 72 of 200
+Training
+[72,   100] loss: 2.667e-04
+[72,   200] loss: 2.623e-04
+Validation
+[72,   100] loss: 5.610e-04
+[72,   200] loss: 5.610e-04
+Training loss: 0.000, train NMSE: -3.508e+00
+Validation loss: 0.001, valid_NMSE: -2.072e+00
+--------------------------------------------------
+[INFO]: Epoch 73 of 200
+Training
+[73,   100] loss: 2.649e-04
+[73,   200] loss: 2.621e-04
+Validation
+[73,   100] loss: 5.636e-04
+[73,   200] loss: 5.636e-04
+Training loss: 0.000, train NMSE: -3.313e+00
+Validation loss: 0.001, valid_NMSE: -2.061e+00
+--------------------------------------------------
+[INFO]: Epoch 74 of 200
+Training
+[74,   100] loss: 2.621e-04
+[74,   200] loss: 2.631e-04
+Validation
+[74,   100] loss: 5.575e-04
+[74,   200] loss: 5.575e-04
+Training loss: 0.000, train NMSE: -3.168e+00
+Validation loss: 0.001, valid_NMSE: -2.092e+00
+
+Best validation loss: -2.091613531112671
+
+Saving best model for epoch: 74
+
+--------------------------------------------------
+[INFO]: Epoch 75 of 200
+Training
+[75,   100] loss: 2.636e-04
+[75,   200] loss: 2.600e-04
+Validation
+[75,   100] loss: 5.584e-04
+[75,   200] loss: 5.584e-04
+Training loss: 0.000, train NMSE: -3.264e+00
+Validation loss: 0.001, valid_NMSE: -2.099e+00
+
+Best validation loss: -2.09879732131958
+
+Saving best model for epoch: 75
+
+--------------------------------------------------
+[INFO]: Epoch 76 of 200
+Training
+[76,   100] loss: 2.608e-04
+[76,   200] loss: 2.614e-04
+Validation
+[76,   100] loss: 5.626e-04
+[76,   200] loss: 5.626e-04
+Training loss: 0.000, train NMSE: -3.578e+00
+Validation loss: 0.001, valid_NMSE: -2.075e+00
+--------------------------------------------------
+[INFO]: Epoch 77 of 200
+Training
+[77,   100] loss: 2.607e-04
+[77,   200] loss: 2.612e-04
+Validation
+[77,   100] loss: 5.570e-04
+[77,   200] loss: 5.570e-04
+Training loss: 0.000, train NMSE: -3.328e+00
+Validation loss: 0.001, valid_NMSE: -2.108e+00
+
+Best validation loss: -2.1082112789154053
+
+Saving best model for epoch: 77
+
+--------------------------------------------------
+[INFO]: Epoch 78 of 200
+Training
+[78,   100] loss: 2.593e-04
+[78,   200] loss: 2.599e-04
+Validation
+[78,   100] loss: 5.602e-04
+[78,   200] loss: 5.602e-04
+Training loss: 0.000, train NMSE: -3.315e+00
+Validation loss: 0.001, valid_NMSE: -2.086e+00
+--------------------------------------------------
+[INFO]: Epoch 79 of 200
+Training
+[79,   100] loss: 2.591e-04
+[79,   200] loss: 2.581e-04
+Validation
+[79,   100] loss: 5.662e-04
+[79,   200] loss: 5.662e-04
+Training loss: 0.000, train NMSE: -3.221e+00
+Validation loss: 0.001, valid_NMSE: -2.045e+00
+--------------------------------------------------
+[INFO]: Epoch 80 of 200
+Training
+[80,   100] loss: 2.583e-04
+[80,   200] loss: 2.582e-04
+Validation
+[80,   100] loss: 5.663e-04
+[80,   200] loss: 5.663e-04
+Training loss: 0.000, train NMSE: -3.445e+00
+Validation loss: 0.001, valid_NMSE: -2.045e+00
+--------------------------------------------------
+[INFO]: Epoch 81 of 200
+Training
+[81,   100] loss: 2.588e-04
+[81,   200] loss: 2.565e-04
+Validation
+[81,   100] loss: 5.615e-04
+[81,   200] loss: 5.615e-04
+Training loss: 0.000, train NMSE: -3.856e+00
+Validation loss: 0.001, valid_NMSE: -2.097e+00
+--------------------------------------------------
+[INFO]: Epoch 82 of 200
+Training
+[82,   100] loss: 2.574e-04
+[82,   200] loss: 2.557e-04
+Validation
+[82,   100] loss: 5.588e-04
+[82,   200] loss: 5.588e-04
+Training loss: 0.000, train NMSE: -3.240e+00
+Validation loss: 0.001, valid_NMSE: -2.115e+00
+
+Best validation loss: -2.115147590637207
+
+Saving best model for epoch: 82
+
+--------------------------------------------------
+[INFO]: Epoch 83 of 200
+Training
+[83,   100] loss: 2.566e-04
+[83,   200] loss: 2.555e-04
+Validation
+[83,   100] loss: 5.694e-04
+[83,   200] loss: 5.694e-04
+Training loss: 0.000, train NMSE: -3.467e+00
+Validation loss: 0.001, valid_NMSE: -2.048e+00
+--------------------------------------------------
+[INFO]: Epoch 84 of 200
+Training
+[84,   100] loss: 2.563e-04
+[84,   200] loss: 2.544e-04
+Validation
+[84,   100] loss: 5.617e-04
+[84,   200] loss: 5.617e-04
+Training loss: 0.000, train NMSE: -3.336e+00
+Validation loss: 0.001, valid_NMSE: -2.087e+00
+--------------------------------------------------
+[INFO]: Epoch 85 of 200
+Training
+[85,   100] loss: 2.551e-04
+[85,   200] loss: 2.545e-04
+Validation
+[85,   100] loss: 5.686e-04
+[85,   200] loss: 5.686e-04
+Training loss: 0.000, train NMSE: -3.490e+00
+Validation loss: 0.001, valid_NMSE: -2.067e+00
+--------------------------------------------------
+[INFO]: Epoch 86 of 200
+Training
+[86,   100] loss: 2.537e-04
+[86,   200] loss: 2.542e-04
+Validation
+[86,   100] loss: 5.680e-04
+[86,   200] loss: 5.680e-04
+Training loss: 0.000, train NMSE: -3.508e+00
+Validation loss: 0.001, valid_NMSE: -2.049e+00
+--------------------------------------------------
+[INFO]: Epoch 87 of 200
+Training
+[87,   100] loss: 2.538e-04
+[87,   200] loss: 2.528e-04
+Validation
+[87,   100] loss: 5.640e-04
+[87,   200] loss: 5.640e-04
+Training loss: 0.000, train NMSE: -3.173e+00
+Validation loss: 0.001, valid_NMSE: -2.068e+00
+--------------------------------------------------
+[INFO]: Epoch 88 of 200
+Training
+[88,   100] loss: 2.518e-04
+[88,   200] loss: 2.531e-04
+Validation
+[88,   100] loss: 5.601e-04
+[88,   200] loss: 5.601e-04
+Training loss: 0.000, train NMSE: -3.140e+00
+Validation loss: 0.001, valid_NMSE: -2.105e+00
+--------------------------------------------------
+[INFO]: Epoch 89 of 200
+Training
+[89,   100] loss: 2.520e-04
+[89,   200] loss: 2.524e-04
+Validation
+[89,   100] loss: 5.603e-04
+[89,   200] loss: 5.603e-04
+Training loss: 0.000, train NMSE: -3.483e+00
+Validation loss: 0.001, valid_NMSE: -2.100e+00
+--------------------------------------------------
+[INFO]: Epoch 90 of 200
+Training
+[90,   100] loss: 2.530e-04
+[90,   200] loss: 2.515e-04
+Validation
+[90,   100] loss: 5.584e-04
+[90,   200] loss: 5.584e-04
+Training loss: 0.000, train NMSE: -3.728e+00
+Validation loss: 0.001, valid_NMSE: -2.127e+00
+
+Best validation loss: -2.126723289489746
+
+Saving best model for epoch: 90
+
+--------------------------------------------------
+[INFO]: Epoch 91 of 200
+Training
+[91,   100] loss: 2.536e-04
+[91,   200] loss: 2.487e-04
+Validation
+[91,   100] loss: 5.640e-04
+[91,   200] loss: 5.640e-04
+Training loss: 0.000, train NMSE: -3.260e+00
+Validation loss: 0.001, valid_NMSE: -2.092e+00
+--------------------------------------------------
+[INFO]: Epoch 92 of 200
+Training
+[92,   100] loss: 2.503e-04
+[92,   200] loss: 2.506e-04
+Validation
+[92,   100] loss: 5.649e-04
+[92,   200] loss: 5.649e-04
+Training loss: 0.000, train NMSE: -3.787e+00
+Validation loss: 0.001, valid_NMSE: -2.090e+00
+--------------------------------------------------
+[INFO]: Epoch 93 of 200
+Training
+[93,   100] loss: 2.501e-04
+[93,   200] loss: 2.494e-04
+Validation
+[93,   100] loss: 5.620e-04
+[93,   200] loss: 5.620e-04
+Training loss: 0.000, train NMSE: -3.370e+00
+Validation loss: 0.001, valid_NMSE: -2.075e+00
+--------------------------------------------------
+[INFO]: Epoch 94 of 200
+Training
+[94,   100] loss: 2.490e-04
+[94,   200] loss: 2.501e-04
+Validation
+[94,   100] loss: 5.610e-04
+[94,   200] loss: 5.610e-04
+Training loss: 0.000, train NMSE: -3.280e+00
+Validation loss: 0.001, valid_NMSE: -2.099e+00
+--------------------------------------------------
+[INFO]: Epoch 95 of 200
+Training
+[95,   100] loss: 2.498e-04
+[95,   200] loss: 2.477e-04
+Validation
+[95,   100] loss: 5.565e-04
+[95,   200] loss: 5.565e-04
+Training loss: 0.000, train NMSE: -3.617e+00
+Validation loss: 0.001, valid_NMSE: -2.107e+00
+--------------------------------------------------
+[INFO]: Epoch 96 of 200
+Training
+[96,   100] loss: 2.490e-04
+[96,   200] loss: 2.470e-04
+Validation
+[96,   100] loss: 5.650e-04
+[96,   200] loss: 5.650e-04
+Training loss: 0.000, train NMSE: -3.787e+00
+Validation loss: 0.001, valid_NMSE: -2.062e+00
+--------------------------------------------------
+[INFO]: Epoch 97 of 200
+Training
+[97,   100] loss: 2.463e-04
+[97,   200] loss: 2.480e-04
+Validation
+[97,   100] loss: 5.576e-04
+[97,   200] loss: 5.576e-04
+Training loss: 0.000, train NMSE: -3.524e+00
+Validation loss: 0.001, valid_NMSE: -2.140e+00
+
+Best validation loss: -2.139976978302002
+
+Saving best model for epoch: 97
+
+--------------------------------------------------
+[INFO]: Epoch 98 of 200
+Training
+[98,   100] loss: 2.471e-04
+[98,   200] loss: 2.471e-04
+Validation
+[98,   100] loss: 5.617e-04
+[98,   200] loss: 5.617e-04
+Training loss: 0.000, train NMSE: -3.442e+00
+Validation loss: 0.001, valid_NMSE: -2.105e+00
+--------------------------------------------------
+[INFO]: Epoch 99 of 200
+Training
+[99,   100] loss: 2.469e-04
+[99,   200] loss: 2.467e-04
+Validation
+[99,   100] loss: 5.666e-04
+[99,   200] loss: 5.666e-04
+Training loss: 0.000, train NMSE: -3.743e+00
+Validation loss: 0.001, valid_NMSE: -2.084e+00
+--------------------------------------------------
+[INFO]: Epoch 100 of 200
+Training
+[100,   100] loss: 2.469e-04
+[100,   200] loss: 2.453e-04
+Validation
+[100,   100] loss: 5.620e-04
+[100,   200] loss: 5.620e-04
+Training loss: 0.000, train NMSE: -3.588e+00
+Validation loss: 0.001, valid_NMSE: -2.123e+00
+--------------------------------------------------
+[INFO]: Epoch 101 of 200
+Training
+[101,   100] loss: 2.449e-04
+[101,   200] loss: 2.465e-04
+Validation
+[101,   100] loss: 5.584e-04
+[101,   200] loss: 5.584e-04
+Training loss: 0.000, train NMSE: -3.550e+00
+Validation loss: 0.001, valid_NMSE: -2.127e+00
+--------------------------------------------------
+[INFO]: Epoch 102 of 200
+Training
+[102,   100] loss: 2.430e-04
+[102,   200] loss: 2.464e-04
+Validation
+[102,   100] loss: 5.647e-04
+[102,   200] loss: 5.647e-04
+Training loss: 0.000, train NMSE: -3.707e+00
+Validation loss: 0.001, valid_NMSE: -2.082e+00
+--------------------------------------------------
+[INFO]: Epoch 103 of 200
+Training
+[103,   100] loss: 2.438e-04
+[103,   200] loss: 2.446e-04
+Validation
+[103,   100] loss: 5.589e-04
+[103,   200] loss: 5.589e-04
+Training loss: 0.000, train NMSE: -3.857e+00
+Validation loss: 0.001, valid_NMSE: -2.110e+00
+--------------------------------------------------
+[INFO]: Epoch 104 of 200
+Training
+[104,   100] loss: 2.438e-04
+[104,   200] loss: 2.443e-04
+Validation
+[104,   100] loss: 5.575e-04
+[104,   200] loss: 5.575e-04
+Training loss: 0.000, train NMSE: -3.831e+00
+Validation loss: 0.001, valid_NMSE: -2.143e+00
+
+Best validation loss: -2.1428122520446777
+
+Saving best model for epoch: 104
+
+--------------------------------------------------
+[INFO]: Epoch 105 of 200
+Training
+[105,   100] loss: 2.436e-04
+[105,   200] loss: 2.429e-04
+Validation
+[105,   100] loss: 5.649e-04
+[105,   200] loss: 5.649e-04
+Training loss: 0.000, train NMSE: -3.947e+00
+Validation loss: 0.001, valid_NMSE: -2.092e+00
+--------------------------------------------------
+[INFO]: Epoch 106 of 200
+Training
+[106,   100] loss: 2.425e-04
+[106,   200] loss: 2.433e-04
+Validation
+[106,   100] loss: 5.605e-04
+[106,   200] loss: 5.605e-04
+Training loss: 0.000, train NMSE: -3.594e+00
+Validation loss: 0.001, valid_NMSE: -2.133e+00
+--------------------------------------------------
+[INFO]: Epoch 107 of 200
+Training
+[107,   100] loss: 2.433e-04
+[107,   200] loss: 2.426e-04
+Validation
+[107,   100] loss: 5.568e-04
+[107,   200] loss: 5.568e-04
+Training loss: 0.000, train NMSE: -3.676e+00
+Validation loss: 0.001, valid_NMSE: -2.138e+00
+--------------------------------------------------
+[INFO]: Epoch 108 of 200
+Training
+[108,   100] loss: 2.425e-04
+[108,   200] loss: 2.409e-04
+Validation
+[108,   100] loss: 5.645e-04
+[108,   200] loss: 5.645e-04
+Training loss: 0.000, train NMSE: -3.598e+00
+Validation loss: 0.001, valid_NMSE: -2.092e+00
+--------------------------------------------------
+[INFO]: Epoch 109 of 200
+Training
+[109,   100] loss: 2.418e-04
+[109,   200] loss: 2.405e-04
+Validation
+[109,   100] loss: 5.588e-04
+[109,   200] loss: 5.588e-04
+Training loss: 0.000, train NMSE: -3.850e+00
+Validation loss: 0.001, valid_NMSE: -2.139e+00
+--------------------------------------------------
+[INFO]: Epoch 110 of 200
+Training
+[110,   100] loss: 2.412e-04
+[110,   200] loss: 2.407e-04
+Validation
+[110,   100] loss: 5.590e-04
+[110,   200] loss: 5.590e-04
+Training loss: 0.000, train NMSE: -3.766e+00
+Validation loss: 0.001, valid_NMSE: -2.134e+00
+--------------------------------------------------
+[INFO]: Epoch 111 of 200
+Training
+[111,   100] loss: 2.420e-04
+[111,   200] loss: 2.391e-04
+Validation
+[111,   100] loss: 5.596e-04
+[111,   200] loss: 5.596e-04
+Training loss: 0.000, train NMSE: -3.706e+00
+Validation loss: 0.001, valid_NMSE: -2.118e+00
+--------------------------------------------------
+[INFO]: Epoch 112 of 200
+Training
+[112,   100] loss: 2.398e-04
+[112,   200] loss: 2.404e-04
+Validation
+[112,   100] loss: 5.624e-04
+[112,   200] loss: 5.624e-04
+Training loss: 0.000, train NMSE: -3.825e+00
+Validation loss: 0.001, valid_NMSE: -2.095e+00
+--------------------------------------------------
+[INFO]: Epoch 113 of 200
+Training
+[113,   100] loss: 2.401e-04
+[113,   200] loss: 2.385e-04
+Validation
+[113,   100] loss: 5.584e-04
+[113,   200] loss: 5.584e-04
+Training loss: 0.000, train NMSE: -3.973e+00
+Validation loss: 0.001, valid_NMSE: -2.127e+00
+--------------------------------------------------
+[INFO]: Epoch 114 of 200
+Training
+[114,   100] loss: 2.390e-04
+[114,   200] loss: 2.395e-04
+Validation
+[114,   100] loss: 5.673e-04
+[114,   200] loss: 5.673e-04
+Training loss: 0.000, train NMSE: -3.690e+00
+Validation loss: 0.001, valid_NMSE: -2.091e+00
+--------------------------------------------------
+[INFO]: Epoch 115 of 200
+Training
+[115,   100] loss: 2.394e-04
+[115,   200] loss: 2.384e-04
+Validation
+[115,   100] loss: 5.642e-04
+[115,   200] loss: 5.642e-04
+Training loss: 0.000, train NMSE: -3.814e+00
+Validation loss: 0.001, valid_NMSE: -2.091e+00
+--------------------------------------------------
+[INFO]: Epoch 116 of 200
+Training
+[116,   100] loss: 2.369e-04
+[116,   200] loss: 2.390e-04
+Validation
+[116,   100] loss: 5.588e-04
+[116,   200] loss: 5.588e-04
+Training loss: 0.000, train NMSE: -3.904e+00
+Validation loss: 0.001, valid_NMSE: -2.118e+00
+--------------------------------------------------
+[INFO]: Epoch 117 of 200
+Training
+[117,   100] loss: 2.397e-04
+[117,   200] loss: 2.371e-04
+Validation
+[117,   100] loss: 5.639e-04
+[117,   200] loss: 5.639e-04
+Training loss: 0.000, train NMSE: -3.912e+00
+Validation loss: 0.001, valid_NMSE: -2.101e+00
+--------------------------------------------------
+[INFO]: Epoch 118 of 200
+Training
+[118,   100] loss: 2.368e-04
+[118,   200] loss: 2.385e-04
+Validation
+[118,   100] loss: 5.584e-04
+[118,   200] loss: 5.584e-04
+Training loss: 0.000, train NMSE: -3.281e+00
+Validation loss: 0.001, valid_NMSE: -2.125e+00
+--------------------------------------------------
+[INFO]: Epoch 119 of 200
+Training
+[119,   100] loss: 2.366e-04
+[119,   200] loss: 2.374e-04
+Validation
+[119,   100] loss: 5.704e-04
+[119,   200] loss: 5.704e-04
+Training loss: 0.000, train NMSE: -4.051e+00
+Validation loss: 0.001, valid_NMSE: -2.062e+00
+--------------------------------------------------
+[INFO]: Epoch 120 of 200
+Training
+[120,   100] loss: 2.372e-04
+[120,   200] loss: 2.356e-04
+Validation
+[120,   100] loss: 5.698e-04
+[120,   200] loss: 5.698e-04
+Training loss: 0.000, train NMSE: -4.060e+00
+Validation loss: 0.001, valid_NMSE: -2.056e+00
+--------------------------------------------------
+[INFO]: Epoch 121 of 200
+Training
+[121,   100] loss: 2.351e-04
+[121,   200] loss: 2.365e-04
+Validation
+[121,   100] loss: 5.664e-04
+[121,   200] loss: 5.664e-04
+Training loss: 0.000, train NMSE: -3.698e+00
+Validation loss: 0.001, valid_NMSE: -2.079e+00
+--------------------------------------------------
+[INFO]: Epoch 122 of 200
+Training
+[122,   100] loss: 2.329e-04
+[122,   200] loss: 2.376e-04
+Validation
+[122,   100] loss: 5.644e-04
+[122,   200] loss: 5.644e-04
+Training loss: 0.000, train NMSE: -4.065e+00
+Validation loss: 0.001, valid_NMSE: -2.113e+00
+--------------------------------------------------
+[INFO]: Epoch 123 of 200
+Training
+[123,   100] loss: 2.350e-04
+[123,   200] loss: 2.359e-04
+Validation
+[123,   100] loss: 5.731e-04
+[123,   200] loss: 5.731e-04
+Training loss: 0.000, train NMSE: -3.733e+00
+Validation loss: 0.001, valid_NMSE: -2.053e+00
+--------------------------------------------------
+[INFO]: Epoch 124 of 200
+Training
+[124,   100] loss: 2.327e-04
+[124,   200] loss: 2.372e-04
+Validation
+[124,   100] loss: 5.598e-04
+[124,   200] loss: 5.598e-04
+Training loss: 0.000, train NMSE: -3.698e+00
+Validation loss: 0.001, valid_NMSE: -2.117e+00
+--------------------------------------------------
+[INFO]: Epoch 125 of 200
+Training
+[125,   100] loss: 2.339e-04
+[125,   200] loss: 2.361e-04
+Validation
+[125,   100] loss: 5.577e-04
+[125,   200] loss: 5.577e-04
+Training loss: 0.000, train NMSE: -3.692e+00
+Validation loss: 0.001, valid_NMSE: -2.108e+00
+--------------------------------------------------
+[INFO]: Epoch 126 of 200
+Training
+[126,   100] loss: 2.333e-04
+[126,   200] loss: 2.344e-04
+Validation
+[126,   100] loss: 5.640e-04
+[126,   200] loss: 5.640e-04
+Training loss: 0.000, train NMSE: -3.700e+00
+Validation loss: 0.001, valid_NMSE: -2.108e+00
+--------------------------------------------------
+[INFO]: Epoch 127 of 200
+Training
+[127,   100] loss: 2.335e-04
+[127,   200] loss: 2.346e-04
+Validation
+[127,   100] loss: 5.604e-04
+[127,   200] loss: 5.604e-04
+Training loss: 0.000, train NMSE: -3.835e+00
+Validation loss: 0.001, valid_NMSE: -2.120e+00
+--------------------------------------------------
+[INFO]: Epoch 128 of 200
+Training
+[128,   100] loss: 2.330e-04
+[128,   200] loss: 2.340e-04
+Validation
+[128,   100] loss: 5.567e-04
+[128,   200] loss: 5.567e-04
+Training loss: 0.000, train NMSE: -3.619e+00
+Validation loss: 0.001, valid_NMSE: -2.127e+00
+--------------------------------------------------
+[INFO]: Epoch 129 of 200
+Training
+[129,   100] loss: 2.330e-04
+[129,   200] loss: 2.329e-04
+Validation
+[129,   100] loss: 5.625e-04
+[129,   200] loss: 5.625e-04
+Training loss: 0.000, train NMSE: -3.935e+00
+Validation loss: 0.001, valid_NMSE: -2.104e+00
+--------------------------------------------------
+[INFO]: Epoch 130 of 200
+Training
+[130,   100] loss: 2.347e-04
+[130,   200] loss: 2.303e-04
+Validation
+[130,   100] loss: 5.678e-04
+[130,   200] loss: 5.678e-04
+Training loss: 0.000, train NMSE: -3.777e+00
+Validation loss: 0.001, valid_NMSE: -2.105e+00
+--------------------------------------------------
+[INFO]: Epoch 131 of 200
+Training
+[131,   100] loss: 2.292e-04
+[131,   200] loss: 2.357e-04
+Validation
+[131,   100] loss: 5.588e-04
+[131,   200] loss: 5.588e-04
+Training loss: 0.000, train NMSE: -3.903e+00
+Validation loss: 0.001, valid_NMSE: -2.123e+00
+--------------------------------------------------
+[INFO]: Epoch 132 of 200
+Training
+[132,   100] loss: 2.316e-04
+[132,   200] loss: 2.321e-04
+Validation
+[132,   100] loss: 5.579e-04
+[132,   200] loss: 5.579e-04
+Training loss: 0.000, train NMSE: -4.009e+00
+Validation loss: 0.001, valid_NMSE: -2.140e+00
+--------------------------------------------------
+[INFO]: Epoch 133 of 200
+Training
+[133,   100] loss: 2.315e-04
+[133,   200] loss: 2.310e-04
+Validation
+[133,   100] loss: 5.631e-04
+[133,   200] loss: 5.631e-04
+Training loss: 0.000, train NMSE: -4.045e+00
+Validation loss: 0.001, valid_NMSE: -2.118e+00
+--------------------------------------------------
+[INFO]: Epoch 134 of 200
+Training
+[134,   100] loss: 2.304e-04
+[134,   200] loss: 2.319e-04
+Validation
+[134,   100] loss: 5.621e-04
+[134,   200] loss: 5.621e-04
+Training loss: 0.000, train NMSE: -3.900e+00
+Validation loss: 0.001, valid_NMSE: -2.113e+00
+--------------------------------------------------
+[INFO]: Epoch 135 of 200
+Training
+[135,   100] loss: 2.331e-04
+[135,   200] loss: 2.289e-04
+Validation
+[135,   100] loss: 5.599e-04
+[135,   200] loss: 5.599e-04
+Training loss: 0.000, train NMSE: -3.792e+00
+Validation loss: 0.001, valid_NMSE: -2.135e+00
+--------------------------------------------------
+[INFO]: Epoch 136 of 200
+Training
+[136,   100] loss: 2.295e-04
+[136,   200] loss: 2.318e-04
+Validation
+[136,   100] loss: 5.682e-04
+[136,   200] loss: 5.682e-04
+Training loss: 0.000, train NMSE: -3.924e+00
+Validation loss: 0.001, valid_NMSE: -2.098e+00
+--------------------------------------------------
+[INFO]: Epoch 137 of 200
+Training
+[137,   100] loss: 2.291e-04
+[137,   200] loss: 2.315e-04
+Validation
+[137,   100] loss: 5.612e-04
+[137,   200] loss: 5.612e-04
+Training loss: 0.000, train NMSE: -3.905e+00
+Validation loss: 0.001, valid_NMSE: -2.138e+00
+--------------------------------------------------
+[INFO]: Epoch 138 of 200
+Training
+[138,   100] loss: 2.281e-04
+[138,   200] loss: 2.316e-04
+Validation
+[138,   100] loss: 5.635e-04
+[138,   200] loss: 5.635e-04
+Training loss: 0.000, train NMSE: -3.953e+00
+Validation loss: 0.001, valid_NMSE: -2.121e+00
+--------------------------------------------------
+[INFO]: Epoch 139 of 200
+Training
+[139,   100] loss: 2.292e-04
+[139,   200] loss: 2.302e-04
+Validation
+[139,   100] loss: 5.673e-04
+[139,   200] loss: 5.673e-04
+Training loss: 0.000, train NMSE: -3.790e+00
+Validation loss: 0.001, valid_NMSE: -2.083e+00
+--------------------------------------------------
+[INFO]: Epoch 140 of 200
+Training
+[140,   100] loss: 2.289e-04
+[140,   200] loss: 2.299e-04
+Validation
+[140,   100] loss: 5.694e-04
+[140,   200] loss: 5.694e-04
+Training loss: 0.000, train NMSE: -4.045e+00
+Validation loss: 0.001, valid_NMSE: -2.098e+00
+--------------------------------------------------
+[INFO]: Epoch 141 of 200
+Training
+[141,   100] loss: 2.286e-04
+[141,   200] loss: 2.289e-04
+Validation
+[141,   100] loss: 5.638e-04
+[141,   200] loss: 5.638e-04
+Training loss: 0.000, train NMSE: -4.203e+00
+Validation loss: 0.001, valid_NMSE: -2.122e+00
+--------------------------------------------------
+[INFO]: Epoch 142 of 200
+Training
+[142,   100] loss: 2.281e-04
+[142,   200] loss: 2.289e-04
+Validation
+[142,   100] loss: 5.698e-04
+[142,   200] loss: 5.698e-04
+Training loss: 0.000, train NMSE: -3.843e+00
+Validation loss: 0.001, valid_NMSE: -2.070e+00
+--------------------------------------------------
+[INFO]: Epoch 143 of 200
+Training
+[143,   100] loss: 2.290e-04
+[143,   200] loss: 2.274e-04
+Validation
+[143,   100] loss: 5.634e-04
+[143,   200] loss: 5.634e-04
+Training loss: 0.000, train NMSE: -3.821e+00
+Validation loss: 0.001, valid_NMSE: -2.117e+00
+--------------------------------------------------
+[INFO]: Epoch 144 of 200
+Training
+[144,   100] loss: 2.290e-04
+[144,   200] loss: 2.271e-04
+Validation
+[144,   100] loss: 5.677e-04
+[144,   200] loss: 5.677e-04
+Training loss: 0.000, train NMSE: -3.775e+00
+Validation loss: 0.001, valid_NMSE: -2.102e+00
+--------------------------------------------------
+[INFO]: Epoch 145 of 200
+Training
+[145,   100] loss: 2.261e-04
+[145,   200] loss: 2.289e-04
+Validation
+[145,   100] loss: 5.621e-04
+[145,   200] loss: 5.621e-04
+Training loss: 0.000, train NMSE: -3.787e+00
+Validation loss: 0.001, valid_NMSE: -2.136e+00
+--------------------------------------------------
+[INFO]: Epoch 146 of 200
+Training
+[146,   100] loss: 2.272e-04
+[146,   200] loss: 2.268e-04
+Validation
+[146,   100] loss: 5.684e-04
+[146,   200] loss: 5.684e-04
+Training loss: 0.000, train NMSE: -3.583e+00
+Validation loss: 0.001, valid_NMSE: -2.091e+00
+--------------------------------------------------
+[INFO]: Epoch 147 of 200
+Training
+[147,   100] loss: 2.255e-04
+[147,   200] loss: 2.287e-04
+Validation
+[147,   100] loss: 5.620e-04
+[147,   200] loss: 5.620e-04
+Training loss: 0.000, train NMSE: -3.734e+00
+Validation loss: 0.001, valid_NMSE: -2.101e+00
+--------------------------------------------------
+[INFO]: Epoch 148 of 200
+Training
+[148,   100] loss: 2.269e-04
+[148,   200] loss: 2.273e-04
+Validation
+[148,   100] loss: 5.644e-04
+[148,   200] loss: 5.644e-04
+Training loss: 0.000, train NMSE: -4.012e+00
+Validation loss: 0.001, valid_NMSE: -2.111e+00
+--------------------------------------------------
+[INFO]: Epoch 149 of 200
+Training
+[149,   100] loss: 2.244e-04
+[149,   200] loss: 2.278e-04
+Validation
+[149,   100] loss: 5.707e-04
+[149,   200] loss: 5.707e-04
+Training loss: 0.000, train NMSE: -3.978e+00
+Validation loss: 0.001, valid_NMSE: -2.068e+00
+--------------------------------------------------
+[INFO]: Epoch 150 of 200
+Training
+[150,   100] loss: 2.255e-04
+[150,   200] loss: 2.258e-04
+Validation
+[150,   100] loss: 5.640e-04
+[150,   200] loss: 5.640e-04
+Training loss: 0.000, train NMSE: -3.948e+00
+Validation loss: 0.001, valid_NMSE: -2.116e+00
+--------------------------------------------------
+[INFO]: Epoch 151 of 200
+Training
+[151,   100] loss: 2.249e-04
+[151,   200] loss: 2.259e-04
+Validation
+[151,   100] loss: 5.695e-04
+[151,   200] loss: 5.695e-04
+Training loss: 0.000, train NMSE: -3.855e+00
+Validation loss: 0.001, valid_NMSE: -2.085e+00
+--------------------------------------------------
+[INFO]: Epoch 152 of 200
+Training
+[152,   100] loss: 2.253e-04
+[152,   200] loss: 2.259e-04
+Validation
+[152,   100] loss: 5.651e-04
+[152,   200] loss: 5.651e-04
+Training loss: 0.000, train NMSE: -3.670e+00
+Validation loss: 0.001, valid_NMSE: -2.106e+00
+--------------------------------------------------
+[INFO]: Epoch 153 of 200
+Training
+[153,   100] loss: 2.243e-04
+[153,   200] loss: 2.262e-04
+Validation
+[153,   100] loss: 5.592e-04
+[153,   200] loss: 5.592e-04
+Training loss: 0.000, train NMSE: -3.984e+00
+Validation loss: 0.001, valid_NMSE: -2.137e+00
+--------------------------------------------------
+[INFO]: Epoch 154 of 200
+Training
+[154,   100] loss: 2.231e-04
+[154,   200] loss: 2.263e-04
+Validation
+[154,   100] loss: 5.674e-04
+[154,   200] loss: 5.674e-04
+Training loss: 0.000, train NMSE: -3.836e+00
+Validation loss: 0.001, valid_NMSE: -2.091e+00
+--------------------------------------------------
+[INFO]: Epoch 155 of 200
+Training
+[155,   100] loss: 2.237e-04
+[155,   200] loss: 2.247e-04
+Validation
+[155,   100] loss: 5.716e-04
+[155,   200] loss: 5.716e-04
+Training loss: 0.000, train NMSE: -3.942e+00
+Validation loss: 0.001, valid_NMSE: -2.063e+00
+--------------------------------------------------
+[INFO]: Epoch 156 of 200
+Training
+[156,   100] loss: 2.239e-04
+[156,   200] loss: 2.242e-04
+Validation
+[156,   100] loss: 5.617e-04
+[156,   200] loss: 5.617e-04
+Training loss: 0.000, train NMSE: -3.656e+00
+Validation loss: 0.001, valid_NMSE: -2.127e+00
+--------------------------------------------------
+[INFO]: Epoch 157 of 200
+Training
+[157,   100] loss: 2.227e-04
+[157,   200] loss: 2.253e-04
+Validation
+[157,   100] loss: 5.689e-04
+[157,   200] loss: 5.689e-04
+Training loss: 0.000, train NMSE: -4.085e+00
+Validation loss: 0.001, valid_NMSE: -2.100e+00
+--------------------------------------------------
+[INFO]: Epoch 158 of 200
+Training
+[158,   100] loss: 2.227e-04
+[158,   200] loss: 2.241e-04
+Validation
+[158,   100] loss: 5.703e-04
+[158,   200] loss: 5.703e-04
+Training loss: 0.000, train NMSE: -3.578e+00
+Validation loss: 0.001, valid_NMSE: -2.087e+00
+--------------------------------------------------
+[INFO]: Epoch 159 of 200
+Training
+[159,   100] loss: 2.230e-04
+[159,   200] loss: 2.236e-04
+Validation
+[159,   100] loss: 5.616e-04
+[159,   200] loss: 5.616e-04
+Training loss: 0.000, train NMSE: -3.799e+00
+Validation loss: 0.001, valid_NMSE: -2.121e+00
+--------------------------------------------------
+[INFO]: Epoch 160 of 200
+Training
+[160,   100] loss: 2.223e-04
+[160,   200] loss: 2.233e-04
+Validation
+[160,   100] loss: 5.737e-04
+[160,   200] loss: 5.737e-04
+Training loss: 0.000, train NMSE: -4.178e+00
+Validation loss: 0.001, valid_NMSE: -2.058e+00
+--------------------------------------------------
+[INFO]: Epoch 161 of 200
+Training
+[161,   100] loss: 2.208e-04
+[161,   200] loss: 2.242e-04
+Validation
+[161,   100] loss: 5.590e-04
+[161,   200] loss: 5.590e-04
+Training loss: 0.000, train NMSE: -4.198e+00
+Validation loss: 0.001, valid_NMSE: -2.126e+00
+--------------------------------------------------
+[INFO]: Epoch 162 of 200
+Training
+[162,   100] loss: 2.219e-04
+[162,   200] loss: 2.225e-04
+Validation
+[162,   100] loss: 5.656e-04
+[162,   200] loss: 5.656e-04
+Training loss: 0.000, train NMSE: -4.033e+00
+Validation loss: 0.001, valid_NMSE: -2.118e+00
+--------------------------------------------------
+[INFO]: Epoch 163 of 200
+Training
+[163,   100] loss: 2.219e-04
+[163,   200] loss: 2.224e-04
+Validation
+[163,   100] loss: 5.713e-04
+[163,   200] loss: 5.713e-04
+Training loss: 0.000, train NMSE: -4.370e+00
+Validation loss: 0.001, valid_NMSE: -2.086e+00
+--------------------------------------------------
+[INFO]: Epoch 164 of 200
+Training
+[164,   100] loss: 2.228e-04
+[164,   200] loss: 2.213e-04
+Validation
+[164,   100] loss: 5.680e-04
+[164,   200] loss: 5.680e-04
+Training loss: 0.000, train NMSE: -4.238e+00
+Validation loss: 0.001, valid_NMSE: -2.086e+00
+--------------------------------------------------
+[INFO]: Epoch 165 of 200
+Training
+[165,   100] loss: 2.197e-04
+[165,   200] loss: 2.241e-04
+Validation
+[165,   100] loss: 5.690e-04
+[165,   200] loss: 5.690e-04
+Training loss: 0.000, train NMSE: -3.828e+00
+Validation loss: 0.001, valid_NMSE: -2.079e+00
+--------------------------------------------------
+[INFO]: Epoch 166 of 200
+Training
+[166,   100] loss: 2.199e-04
+[166,   200] loss: 2.225e-04
+Validation
+[166,   100] loss: 5.781e-04
+[166,   200] loss: 5.781e-04
+Training loss: 0.000, train NMSE: -4.246e+00
+Validation loss: 0.001, valid_NMSE: -2.037e+00
+--------------------------------------------------
+[INFO]: Epoch 167 of 200
+Training
+[167,   100] loss: 2.222e-04
+[167,   200] loss: 2.207e-04
+Validation
+[167,   100] loss: 5.714e-04
+[167,   200] loss: 5.714e-04
+Training loss: 0.000, train NMSE: -4.162e+00
+Validation loss: 0.001, valid_NMSE: -2.091e+00
+--------------------------------------------------
+[INFO]: Epoch 168 of 200
+Training
+[168,   100] loss: 2.215e-04
+[168,   200] loss: 2.205e-04
+Validation
+[168,   100] loss: 5.743e-04
+[168,   200] loss: 5.743e-04
+Training loss: 0.000, train NMSE: -4.049e+00
+Validation loss: 0.001, valid_NMSE: -2.062e+00
+--------------------------------------------------
+[INFO]: Epoch 169 of 200
+Training
+[169,   100] loss: 2.197e-04
+[169,   200] loss: 2.211e-04
+Validation
+[169,   100] loss: 5.728e-04
+[169,   200] loss: 5.728e-04
+Training loss: 0.000, train NMSE: -4.313e+00
+Validation loss: 0.001, valid_NMSE: -2.063e+00
+--------------------------------------------------
+[INFO]: Epoch 170 of 200
+Training
+[170,   100] loss: 2.191e-04
+[170,   200] loss: 2.211e-04
+Validation
+[170,   100] loss: 5.644e-04
+[170,   200] loss: 5.644e-04
+Training loss: 0.000, train NMSE: -3.789e+00
+Validation loss: 0.001, valid_NMSE: -2.124e+00
+--------------------------------------------------
+[INFO]: Epoch 171 of 200
+Training
+[171,   100] loss: 2.187e-04
+[171,   200] loss: 2.206e-04
+Validation
+[171,   100] loss: 5.678e-04
+[171,   200] loss: 5.678e-04
+Training loss: 0.000, train NMSE: -4.095e+00
+Validation loss: 0.001, valid_NMSE: -2.107e+00
+--------------------------------------------------
+[INFO]: Epoch 172 of 200
+Training
+[172,   100] loss: 2.196e-04
+[172,   200] loss: 2.201e-04
+Validation
+[172,   100] loss: 5.668e-04
+[172,   200] loss: 5.668e-04
+Training loss: 0.000, train NMSE: -4.069e+00
+Validation loss: 0.001, valid_NMSE: -2.119e+00
+--------------------------------------------------
+[INFO]: Epoch 173 of 200
+Training
+[173,   100] loss: 2.200e-04
+[173,   200] loss: 2.185e-04
+Validation
+[173,   100] loss: 5.685e-04
+[173,   200] loss: 5.685e-04
+Training loss: 0.000, train NMSE: -4.216e+00
+Validation loss: 0.001, valid_NMSE: -2.097e+00
+--------------------------------------------------
+[INFO]: Epoch 174 of 200
+Training
+[174,   100] loss: 2.208e-04
+[174,   200] loss: 2.196e-04
+Validation
+[174,   100] loss: 5.710e-04
+[174,   200] loss: 5.710e-04
+Training loss: 0.000, train NMSE: -3.880e+00
+Validation loss: 0.001, valid_NMSE: -2.083e+00
+--------------------------------------------------
+[INFO]: Epoch 175 of 200
+Training
+[175,   100] loss: 2.194e-04
+[175,   200] loss: 2.190e-04
+Validation
+[175,   100] loss: 5.614e-04
+[175,   200] loss: 5.614e-04
+Training loss: 0.000, train NMSE: -3.674e+00
+Validation loss: 0.001, valid_NMSE: -2.149e+00
+
+Best validation loss: -2.1492578983306885/home/hzl/anaconda3/envs/pt/lib/python3.7/site-packages/torchvision/io/image.py:11: UserWarning: Failed to load image Python extension: /home/hzl/anaconda3/envs/pt/lib/python3.7/site-packages/torchvision/image.so: undefined symbol: _ZNK3c1010TensorImpl36is_contiguous_nondefault_policy_implENS_12MemoryFormatE
+  warn(f"Failed to load image Python extension: {e}")
+
+
+Saving best model for epoch: 175
+
+--------------------------------------------------
+[INFO]: Epoch 176 of 200
+Training
+[176,   100] loss: 2.188e-04
+[176,   200] loss: 2.179e-04
+Validation
+[176,   100] loss: 5.654e-04
+[176,   200] loss: 5.654e-04
+Training loss: 0.000, train NMSE: -4.172e+00
+Validation loss: 0.001, valid_NMSE: -2.112e+00
+--------------------------------------------------
+[INFO]: Epoch 177 of 200
+Training
+[177,   100] loss: 2.205e-04
+[177,   200] loss: 2.171e-04
+Validation
+[177,   100] loss: 5.683e-04
+[177,   200] loss: 5.683e-04
+Training loss: 0.000, train NMSE: -4.026e+00
+Validation loss: 0.001, valid_NMSE: -2.093e+00
+--------------------------------------------------
+[INFO]: Epoch 178 of 200
+Training
+[178,   100] loss: 2.175e-04
+[178,   200] loss: 2.187e-04
+Validation
+[178,   100] loss: 5.681e-04
+[178,   200] loss: 5.681e-04
+Training loss: 0.000, train NMSE: -3.921e+00
+Validation loss: 0.001, valid_NMSE: -2.097e+00
+--------------------------------------------------
+[INFO]: Epoch 179 of 200
+Training
+[179,   100] loss: 2.175e-04
+[179,   200] loss: 2.191e-04
+Validation
+[179,   100] loss: 5.644e-04
+[179,   200] loss: 5.644e-04
+Training loss: 0.000, train NMSE: -3.997e+00
+Validation loss: 0.001, valid_NMSE: -2.118e+00
+--------------------------------------------------
+[INFO]: Epoch 180 of 200
+Training
+[180,   100] loss: 2.187e-04
+[180,   200] loss: 2.169e-04
+Validation
+[180,   100] loss: 5.709e-04
+[180,   200] loss: 5.709e-04
+Training loss: 0.000, train NMSE: -4.056e+00
+Validation loss: 0.001, valid_NMSE: -2.079e+00
+--------------------------------------------------
+[INFO]: Epoch 181 of 200
+Training
+[181,   100] loss: 2.174e-04
+[181,   200] loss: 2.179e-04
+Validation
+[181,   100] loss: 5.647e-04
+[181,   200] loss: 5.647e-04
+Training loss: 0.000, train NMSE: -4.336e+00
+Validation loss: 0.001, valid_NMSE: -2.115e+00
+--------------------------------------------------
+[INFO]: Epoch 182 of 200
+Training
+[182,   100] loss: 2.165e-04
+[182,   200] loss: 2.181e-04
+Validation
+[182,   100] loss: 5.704e-04
+[182,   200] loss: 5.704e-04
+Training loss: 0.000, train NMSE: -4.302e+00
+Validation loss: 0.001, valid_NMSE: -2.095e+00
+--------------------------------------------------
+[INFO]: Epoch 183 of 200
+Training
+[183,   100] loss: 2.153e-04
+[183,   200] loss: 2.183e-04
+Validation
+[183,   100] loss: 5.826e-04
+[183,   200] loss: 5.826e-04
+Training loss: 0.000, train NMSE: -4.189e+00
+Validation loss: 0.001, valid_NMSE: -2.005e+00
+--------------------------------------------------
+[INFO]: Epoch 184 of 200
+Training
+[184,   100] loss: 2.184e-04
+[184,   200] loss: 2.156e-04
+Validation
+[184,   100] loss: 5.741e-04
+[184,   200] loss: 5.741e-04
+Training loss: 0.000, train NMSE: -4.420e+00
+Validation loss: 0.001, valid_NMSE: -2.047e+00
+--------------------------------------------------
+[INFO]: Epoch 185 of 200
+Training
+[185,   100] loss: 2.129e-04
+[185,   200] loss: 2.194e-04
+Validation
+[185,   100] loss: 5.624e-04
+[185,   200] loss: 5.624e-04
+Training loss: 0.000, train NMSE: -4.292e+00
+Validation loss: 0.001, valid_NMSE: -2.139e+00
+--------------------------------------------------
+[INFO]: Epoch 186 of 200
+Training
+[186,   100] loss: 2.186e-04
+[186,   200] loss: 2.146e-04
+Validation
+[186,   100] loss: 5.770e-04
+[186,   200] loss: 5.770e-04
+Training loss: 0.000, train NMSE: -3.796e+00
+Validation loss: 0.001, valid_NMSE: -2.042e+00
+--------------------------------------------------
+[INFO]: Epoch 187 of 200
+Training
+[187,   100] loss: 2.162e-04
+[187,   200] loss: 2.178e-04
+Validation
+[187,   100] loss: 5.732e-04
+[187,   200] loss: 5.732e-04
+Training loss: 0.000, train NMSE: -3.936e+00
+Validation loss: 0.001, valid_NMSE: -2.064e+00
+--------------------------------------------------
+[INFO]: Epoch 188 of 200
+Training
+[188,   100] loss: 2.152e-04
+[188,   200] loss: 2.165e-04
+Validation
+[188,   100] loss: 5.723e-04
+[188,   200] loss: 5.723e-04
+Training loss: 0.000, train NMSE: -3.861e+00
+Validation loss: 0.001, valid_NMSE: -2.075e+00
+--------------------------------------------------
+[INFO]: Epoch 189 of 200
+Training
+[189,   100] loss: 2.165e-04
+[189,   200] loss: 2.144e-04
+Validation
+[189,   100] loss: 5.691e-04
+[189,   200] loss: 5.691e-04
+Training loss: 0.000, train NMSE: -4.368e+00
+Validation loss: 0.001, valid_NMSE: -2.096e+00
+--------------------------------------------------
+[INFO]: Epoch 190 of 200
+Training
+[190,   100] loss: 2.141e-04
+[190,   200] loss: 2.165e-04
+Validation
+[190,   100] loss: 5.766e-04
+[190,   200] loss: 5.766e-04
+Training loss: 0.000, train NMSE: -4.079e+00
+Validation loss: 0.001, valid_NMSE: -2.043e+00
+--------------------------------------------------
+[INFO]: Epoch 191 of 200
+Training
+[191,   100] loss: 2.159e-04
+[191,   200] loss: 2.141e-04
+Validation
+[191,   100] loss: 5.629e-04
+[191,   200] loss: 5.629e-04
+Training loss: 0.000, train NMSE: -4.180e+00
+Validation loss: 0.001, valid_NMSE: -2.129e+00
+--------------------------------------------------
+[INFO]: Epoch 192 of 200
+Training
+[192,   100] loss: 2.139e-04
+[192,   200] loss: 2.159e-04
+Validation
+[192,   100] loss: 5.737e-04
+[192,   200] loss: 5.737e-04
+Training loss: 0.000, train NMSE: -4.194e+00
+Validation loss: 0.001, valid_NMSE: -2.083e+00
+--------------------------------------------------
+[INFO]: Epoch 193 of 200
+Training
+[193,   100] loss: 2.168e-04
+[193,   200] loss: 2.133e-04
+Validation
+[193,   100] loss: 5.698e-04
+[193,   200] loss: 5.698e-04
+Training loss: 0.000, train NMSE: -4.076e+00
+Validation loss: 0.001, valid_NMSE: -2.092e+00
+--------------------------------------------------
+[INFO]: Epoch 194 of 200
+Training
+[194,   100] loss: 2.140e-04
+[194,   200] loss: 2.154e-04
+Validation
+[194,   100] loss: 5.708e-04
+[194,   200] loss: 5.708e-04
+Training loss: 0.000, train NMSE: -3.875e+00
+Validation loss: 0.001, valid_NMSE: -2.100e+00
+--------------------------------------------------
+[INFO]: Epoch 195 of 200
+Training
+[195,   100] loss: 2.143e-04
+[195,   200] loss: 2.151e-04
+Validation
+[195,   100] loss: 5.672e-04
+[195,   200] loss: 5.672e-04
+Training loss: 0.000, train NMSE: -4.192e+00
+Validation loss: 0.001, valid_NMSE: -2.114e+00
+--------------------------------------------------
+[INFO]: Epoch 196 of 200
+Training
+[196,   100] loss: 2.145e-04
+[196,   200] loss: 2.143e-04
+Validation
+[196,   100] loss: 5.718e-04
+[196,   200] loss: 5.718e-04
+Training loss: 0.000, train NMSE: -3.955e+00
+Validation loss: 0.001, valid_NMSE: -2.073e+00
+--------------------------------------------------
+[INFO]: Epoch 197 of 200
+Training
+[197,   100] loss: 2.130e-04
+[197,   200] loss: 2.146e-04
+Validation
+[197,   100] loss: 5.721e-04
+[197,   200] loss: 5.721e-04
+Training loss: 0.000, train NMSE: -4.074e+00
+Validation loss: 0.001, valid_NMSE: -2.073e+00
+--------------------------------------------------
+[INFO]: Epoch 198 of 200
+Training
+[198,   100] loss: 2.137e-04
+[198,   200] loss: 2.134e-04
+Validation
+[198,   100] loss: 5.707e-04
+[198,   200] loss: 5.707e-04
+Training loss: 0.000, train NMSE: -4.134e+00
+Validation loss: 0.001, valid_NMSE: -2.076e+00
+--------------------------------------------------
+[INFO]: Epoch 199 of 200
+Training
+[199,   100] loss: 2.126e-04
+[199,   200] loss: 2.138e-04
+Validation
+[199,   100] loss: 5.677e-04
+[199,   200] loss: 5.677e-04
+Training loss: 0.000, train NMSE: -4.318e+00
+Validation loss: 0.001, valid_NMSE: -2.108e+00
+--------------------------------------------------
+[INFO]: Epoch 200 of 200
+Training
+[200,   100] loss: 2.131e-04
+[200,   200] loss: 2.138e-04
+Validation
+[200,   100] loss: 5.685e-04
+[200,   200] loss: 5.685e-04
+Training loss: 0.000, train NMSE: -4.115e+00
+Validation loss: 0.001, valid_NMSE: -2.112e+00
+--------------------------------------------------
+Saving final model
+TRAINING COMPLETE
