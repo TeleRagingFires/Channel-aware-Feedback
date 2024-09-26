@@ -22,3 +22,22 @@ The evaluation of mitigation bias of training with 4 mixed training dataset setu
 <p align="center">
   <img src = "https://github.com/TeleRagingFires/Channel-aware-Feedback/blob/719a11dd8e6bf91a0e464520e7906b8f777f2eae/Images/Offline%20Pre-training%20Mixed%20Dataset%20Results.jpg" width="800">
 </p>
+
+### B. Evaluation on Unified Channel-aware Out-of-distribution Detection Framework in Model Updating
+#### Experiment Setup
+This subsection assesses the accuracy of the proposed unified channel-aware out-of-distribution detection framework with Softmax-score and Energy-based score functions with two online datasets setups from the IndoorHall-5GHz and the SemiUrban-300MHz, respectively, which simulate an open-world model deployment. The downlink channel is collected from the COST2100 model with channel configurations enumerated in the following table. 
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Channel-aware-Feedback/blob/af7fadb7b1bf7fbdcc595947b8cd0de68cdb58f6/Images/Channel-aware%20OODD%20Dataset%20Setups.jpg" width="450">
+</p>
+
+#### Experiment Result
+The TPR 95% performance of the unified channel-aware out-of-distribution detection with two setups of online deployment datasets is enumerated in the following table.
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Channel-aware-Feedback/blob/af7fadb7b1bf7fbdcc595947b8cd0de68cdb58f6/Images/Channel-aware%20OODD%20accuracy.jpg" width="450">
+</p>
+The experimental results of channel-aware CSI feedback model updating utilizing returning online in-distribution subsets are presented in the following table.
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Channel-aware-Feedback/blob/0aba2842afea69b870d6a68fd28e8a8332d836c4/Images/Channel-aware%20OODD%20Update%20Performance.jpg" width="450">
+</p>
+
+
