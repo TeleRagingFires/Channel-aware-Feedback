@@ -1,4 +1,10 @@
 # Channel-aware CSI Feedback: Dataset Bias Mitigated Pre-training, Online Out-of-Distribution Detection and its Domain Adaptation
+## Overview
+This is a repository for  Channel-aware CSI Feedback: Dataset Bias Mitigated Pre-training, Online Out-of-Distribution Detection and its Domain Adaptation, a submitted manuscript to IEEE Internat of Things Journal. 
+### Abstract and Details
+The deep learning (DL)-based CSI feedback paradigm encounters significant challenges in practical wireless communication scenarios, where channel characteristics and distributions fluctuate drastically.
+To enhance the adaptability of the CSI feedback model, this work innovates a channel-aware CSI feedback paradigm that integrates channel awareness into CSI reporting. Firstly, the paradigm reports channel-aware information and introduces regularization in the model training phase, improving the generalizability of the pre-trained model and mitigating the bias in the mixed dataset. Secondly, the channel-aware information, through the proposed unified channel-aware out-of-distribution (OOD) detection framework in the model monitoring phase, agilely triggers model updates and distils online in-distribution (ID) data for efficient model updating. Finally, the distribution-aligned channel-aware information and synthesized online-deployment-specific features are integrated into a transductive-based hybrid domain adaptation (HDA) scheme for channel-aware CSI feedback in the model updating phase, effectively adapting the model to new scenarios with significant data drift while avoiding the catastrophic forgetting of prior knowledge. The thorough experiments verify the superior performance and adaptability of the proposed channel-aware CSI feedback paradigm in the model training, monitoring and updating phases.
+- Once the manuscript is ready for early access, more details about this work will be provided.
 
 
 ## Simulation Result and Analysis
